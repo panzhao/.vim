@@ -1,0 +1,1207 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+<F12>	/home/zhaopan/.vimrc	/^nmap<F12> :TlistAddFiles$/;"	m	language:Vim
+<F12>	/home/zhaopan/myNotes/dayNotes/vimrc	/^nmap<F12> :TlistAddFilesRecursive $/;"	m	language:Vim
+<F5>	/home/zhaopan/.vimrc	/^imap<F5>  <Esc> :wq! <CR>$/;"	m	language:Vim
+<F5>	/home/zhaopan/myNotes/dayNotes/vimrc	/^imap<F5>  <Esc> :wq! <CR>$/;"	m	language:Vim
+<F7>	/home/zhaopan/.vimrc	/^nmap<F7>  :w <CR>$/;"	m	language:Vim
+<F7>	/home/zhaopan/myNotes/dayNotes/vimrc	/^nmap<F7>  :w <CR>$/;"	m	language:Vim
+<F8>	/home/zhaopan/.vimrc	/^nmap<F8> :Tlist <CR>$/;"	m	language:Vim
+<F8>	/home/zhaopan/myNotes/dayNotes/vimrc	/^nmap<F8> :Tlist <CR>$/;"	m	language:Vim
+<F9>	/home/zhaopan/.vimrc	/^nmap<F9> :cscope find $/;"	m	language:Vim
+<F9>	/home/zhaopan/myNotes/dayNotes/vimrc	/^nmap<F9> :cscope find $/;"	m	language:Vim
+A	/home/zhaopan/test/const.cpp	/^    A(int c = 0):b(c) {$/;"	f	language:C++	class:A
+a	/home/zhaopan/test/const.cpp	/^    static int a;$/;"	m	language:C++	class:A	file:
+A	/home/zhaopan/test/const.cpp	/^class A {$/;"	c	language:C++	file:
+a	/home/zhaopan/test/const.cpp	/^int A::a = 100;$/;"	m	language:C++	class:A	file:
+a	/home/zhaopan/test/entirety.c	/^    int a;$/;"	m	language:C	struct:Stu	file:
+a	/home/zhaopan/test/stru.c	/^    int a:10;$/;"	m	language:C	struct:name	file:
+a	/home/zhaopan/test/stru.c	/^    int a;$/;"	m	language:C	struct:_Test	file:
+A	/home/zhaopan/test/test.h	/^class A {$/;"	c	language:C++
+A	/home/zhaopan/test/virtual.cpp	/^    A() {$/;"	f	language:C++	class:A
+A	/home/zhaopan/test/virtual.cpp	/^class A {$/;"	c	language:C++	file:
+ACCEPTED	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^ACCEPTED = 202$/;"	v	language:Python
+ACCEPT_TYPE	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  ACCEPT_TYPE = ('text\/html', 'text\/xhtml')$/;"	v	language:Python	class:TextCrawler
+accept_url	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def accept_url(self, url):$/;"	m	language:Python	class:PageFeeder
+accept_url	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  def accept_url(self, url):$/;"	m	language:Python	class:SimpleCrawler
+accept_url	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def accept_url(self, url):$/;"	m	language:Python	class:PageFeeder
+ACLDB	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from webstemmer.zipdb import ACLDB, ZipLoader$/;"	i	language:Python
+ACLDB	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^from webstemmer.zipdb import ACLDB, ZipLoader$/;"	i	language:Python
+ACLDB	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^from webstemmer.zipdb import ACLDB, ZipDumper, NullDumper$/;"	i	language:Python
+ACLDB	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from webstemmer.zipdb import ACLDB, ZipLoader$/;"	i	language:Python
+ActiveStyleSheet	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^from webstemmer.style import Style, StyleSheet, ActiveStyleSheet, parse_inline$/;"	i	language:Python
+add	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def add(self, name, s):$/;"	m	language:Python	class:PageFeeder
+add	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def add(self, page):$/;"	m	language:Python	class:LayoutCluster
+add	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^  def add(self, e, anchor):$/;"	m	language:Python	class:Chunker
+add	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  def add(self, name, s):$/;"	m	language:Python	class:RefTextDB
+add	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def add(self, name, s):$/;"	m	language:Python	class:PageFeeder
+add	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def add(self, page):$/;"	m	language:Python	class:LayoutCluster
+addcontinue	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def addcontinue(self, key, more):$/;"	m	language:Python	class:HTTPMessage
+addheader	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def addheader(self, key, value):$/;"	m	language:Python	class:HTTPMessage
+addinfourl	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^from urllib import addinfourl$/;"	i	language:Python
+add_anchor_strs	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def add_anchor_strs(self, anchor_strs):$/;"	m	language:Python	class:HTMLPage
+add_anchor_strs	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def add_anchor_strs(self, name, anchor_strs):$/;"	m	language:Python	class:LayoutAnalyzer
+add_anchor_strs	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def add_anchor_strs(self, anchor_strs):$/;"	m	language:Python	class:HTMLPage
+add_anchor_strs	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def add_anchor_strs(self, name, anchor_strs):$/;"	m	language:Python	class:LayoutAnalyzer
+add_child	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def add_child(self, e):$/;"	m	language:Python	class:HTMLElement
+add_field	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def add_field(self, field):$/;"	m	language:Python	class:HTMLForm
+add_header	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def add_header(self, e):$/;"	m	language:Python	class:HTMLRootElement
+add_tree	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def add_tree(self, name, tree):$/;"	m	language:Python	class:LayoutAnalyzer
+add_tree	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def add_tree(self, name, tree):$/;"	m	language:Python	class:LayoutAnalyzer
+agent	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  import getopt, agent$/;"	i	language:Python
+analyze	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def analyze(self, cluster_threshold=0.97, title_threshold=0.6, max_sample=0, verbose=True):$/;"	m	language:Python	class:LayoutAnalyzer
+analyze	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def analyze(self, cluster_threshold=0.97, title_threshold=0.6, max_sample=0, verbose=True):$/;"	m	language:Python	class:LayoutAnalyzer
+ancestorElement	/home/zhaopan/fromchang/Node.cpp	/^Element* Node::ancestorElement() const$/;"	f	language:C++	class:WebCore::Node
+appendAttributeDesc	/home/zhaopan/fromchang/Node.cpp	/^static void appendAttributeDesc(const Node* node, String& string, const QualifiedName& name, const char* attrDesc)$/;"	f	language:C++	namespace:WebCore
+appendChild	/home/zhaopan/fromchang/Node.cpp	/^bool Node::appendChild(PassRefPtr<Node> newChild, ExceptionCode& ec, bool shouldLazyAttach)$/;"	f	language:C++	class:WebCore::Node
+AppendChild	/home/zhaopan/NuDom/DOMNode.cc	/^    DomNode *AppendChild(DomNode * new_node) {$/;"	f	language:C++	class:DOMNode
+appendTextContent	/home/zhaopan/fromchang/Node.cpp	/^static void appendTextContent(const Node* node, bool convertBRsToNewlines, bool& isNullString, StringBuilder& content)$/;"	f	language:C++	namespace:WebCore
+AR	/home/zhaopan/zlib-1.2.3/Makefile	/^AR=ar rc$/;"	m	language:Make
+attr2str	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^     CDATA_TAGS, INLINE_IMMED_TAGS, FORM_FIELD_TAGS, NON_NESTED_TAGS, NON_DISPLAYED_TAGS, BREAK_LINE_TAGS$/;"	i	language:Python
+attributeMap	/home/zhaopan/fromchang/Element.h	/^    NamedNodeMap* attributeMap() const { return m_attributeMap.get(); }$/;"	f	language:C++	class:WebCore::Element
+attributes	/home/zhaopan/fromchang/Element.h	/^    NamedNodeMap* attributes(bool readonly = false) const;$/;"	p	language:C++	class:WebCore::Element
+attributes	/home/zhaopan/fromchang/Element.h	/^inline NamedNodeMap* Element::attributes(bool readonly) const$/;"	f	language:C++	class:WebCore::Element
+attributes	/home/zhaopan/fromchang/Element.h	/^inline NamedNodeMap* Node::attributes() const$/;"	f	language:C++	class:WebCore::Node
+author	/home/zhaopan/webstemmer-dist-0.7.1/setup.py	/^      author='Yusuke Shinyama',$/;"	v	language:Python
+author_email	/home/zhaopan/webstemmer-dist-0.7.1/setup.py	/^      author_email='yusuke at cs dot nyu dot edu',$/;"	v	language:Python
+auto_open	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    auto_open = 1$/;"	v	language:Python	class:HTTPConnection
+b	/home/zhaopan/test/const.cpp	/^    const int b;$/;"	m	language:C++	class:A	file:
+b	/home/zhaopan/test/entirety.c	/^    int b;$/;"	m	language:C	struct:Stu	file:
+b	/home/zhaopan/test/stru.c	/^    int b:20;$/;"	m	language:C	struct:name	file:
+b	/home/zhaopan/test/stru.c	/^    int b;$/;"	m	language:C	struct:_Test	file:
+B	/home/zhaopan/test/virtual.cpp	/^    B() {$/;"	f	language:C++	class:B
+B	/home/zhaopan/test/virtual.cpp	/^class B : public A {$/;"	c	language:C++	file:
+BadStatusLine	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^class BadStatusLine(HTTPException):$/;"	c	language:Python
+BadStatusLine	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^from httplib import HTTPConnection, BadStatusLine$/;"	i	language:Python
+BAD_GATEWAY	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^BAD_GATEWAY = 502$/;"	v	language:Python
+BAD_REQUEST	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^BAD_REQUEST = 400$/;"	v	language:Python
+baseURI	/home/zhaopan/fromchang/Element.cpp	/^KURL Element::baseURI() const$/;"	f	language:C++	class:WebCore::Element
+baseURI	/home/zhaopan/fromchang/Element.h	/^    virtual KURL baseURI() const;$/;"	p	language:C++	class:WebCore::Element
+baseURI	/home/zhaopan/fromchang/Node.cpp	/^KURL Node::baseURI() const$/;"	f	language:C++	class:WebCore::Node
+begin	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def begin(self):$/;"	m	language:Python	class:HTTPResponse
+beginParsingChildren	/home/zhaopan/fromchang/Element.cpp	/^void Element::beginParsingChildren()$/;"	f	language:C++	class:WebCore::Element
+beginParsingChildren	/home/zhaopan/fromchang/Element.h	/^    virtual void beginParsingChildren();$/;"	p	language:C++	class:WebCore::Element
+BLOCK_TAGS	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^from webstemmer.htmlutils import getdecoder, BLOCK_TAGS, CDATA_TAGS, INLINE_IMMED_TAGS, NON_NESTED_TAGS, VALID_TAGS$/;"	i	language:Python
+BREAK_LINE_TAGS	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^     CDATA_TAGS, INLINE_IMMED_TAGS, FORM_FIELD_TAGS, NON_NESTED_TAGS, NON_DISPLAYED_TAGS, BREAK_LINE_TAGS$/;"	i	language:Python
+BUFSIZE	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    BUFSIZE = 8192$/;"	v	language:Python	class:SSLFile
+c	/home/zhaopan/test/stru.c	/^    int c:12;$/;"	m	language:C	struct:name	file:
+calc_diffscore	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def calc_diffscore(self):$/;"	m	language:Python	class:LayoutSectionCluster
+calc_diffscore	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def calc_diffscore(self):$/;"	m	language:Python	class:LayoutSectionCluster
+canContainRangeEndPoint	/home/zhaopan/fromchang/Element.h	/^    virtual bool canContainRangeEndPoint() const { return true; }$/;"	f	language:C++	class:WebCore::Element
+CannotSendHeader	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^class CannotSendHeader(ImproperConnectionState):$/;"	c	language:Python
+CannotSendRequest	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^class CannotSendRequest(ImproperConnectionState):$/;"	c	language:Python
+canReplaceChild	/home/zhaopan/fromchang/Node.cpp	/^bool Node::canReplaceChild(Node* newChild, Node*)$/;"	f	language:C++	class:WebCore::Node
+cat	/home/zhaopan/test/1.c	4;"	d	language:C	file:
+CC	/home/zhaopan/zlib-1.2.3/Makefile	/^CC=gcc$/;"	m	language:Make
+CDATA_TAGS	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^     CDATA_TAGS, INLINE_IMMED_TAGS, FORM_FIELD_TAGS, NON_NESTED_TAGS, NON_DISPLAYED_TAGS, BREAK_LINE_TAGS$/;"	i	language:Python
+CDATA_TAGS	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^from webstemmer.htmlutils import getdecoder, BLOCK_TAGS, CDATA_TAGS, INLINE_IMMED_TAGS, NON_NESTED_TAGS, VALID_TAGS$/;"	i	language:Python
+CFLAGS	/home/zhaopan/zlib-1.2.3/Makefile	/^CFLAGS=-O3 -DUSE_MMAP$/;"	m	language:Make
+CHARSET_FIND	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^  CHARSET_FIND = re.compile(r'charset\\s*=\\s*([^">;\\s]+)', re.I)$/;"	v	language:Python	class:HTMLParser3
+checkAcceptChild	/home/zhaopan/fromchang/Node.cpp	/^static void checkAcceptChild(Node* newParent, Node* newChild, ExceptionCode& ec)$/;"	f	language:C++	namespace:WebCore
+checkAddChild	/home/zhaopan/fromchang/Node.cpp	/^void Node::checkAddChild(Node *newChild, ExceptionCode& ec)$/;"	f	language:C++	class:WebCore::Node
+checkReplaceChild	/home/zhaopan/fromchang/Node.cpp	/^void Node::checkReplaceChild(Node* newChild, Node* oldChild, ExceptionCode& ec)$/;"	f	language:C++	class:WebCore::Node
+checkSetPrefix	/home/zhaopan/fromchang/Node.cpp	/^void Node::checkSetPrefix(const AtomicString& prefix, ExceptionCode& ec)$/;"	f	language:C++	class:WebCore::Node
+childElementCount	/home/zhaopan/fromchang/Element.cpp	/^unsigned Element::childElementCount() const$/;"	f	language:C++	class:WebCore::Element
+childElementCount	/home/zhaopan/fromchang/Element.h	/^    unsigned childElementCount() const;$/;"	p	language:C++	class:WebCore::Element
+childNodes	/home/zhaopan/fromchang/Node.cpp	/^PassRefPtr<NodeList> Node::childNodes()$/;"	f	language:C++	class:WebCore::Node
+childShouldCreateRenderer	/home/zhaopan/fromchang/Element.cpp	/^bool Element::childShouldCreateRenderer(Node* child) const$/;"	f	language:C++	class:WebCore::Element
+childShouldCreateRenderer	/home/zhaopan/fromchang/Element.h	/^    virtual bool childShouldCreateRenderer(Node*) const; $/;"	p	language:C++	class:WebCore::Element
+childTypeAllowed	/home/zhaopan/fromchang/Element.cpp	/^bool Element::childTypeAllowed(NodeType type) const$/;"	f	language:C++	class:WebCore::Element
+childTypeAllowed	/home/zhaopan/fromchang/Element.h	/^    virtual bool childTypeAllowed(NodeType) const;$/;"	p	language:C++	class:WebCore::Element
+chop	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^  def chop(self, path):$/;"	m	language:Python	class:Chunker
+CHOP_TAGS	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^  CHOP_TAGS = dict.fromkeys('hr br'.split(' '))$/;"	v	language:Python	class:Chunker
+chunk	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^  def chunk(self, e, path, anchor):$/;"	m	language:Python	class:Chunker
+Chunker	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^class Chunker:$/;"	c	language:Python
+classList	/home/zhaopan/fromchang/Element.cpp	/^DOMTokenList* Element::classList()$/;"	f	language:C++	class:WebCore::Element
+classList	/home/zhaopan/fromchang/Element.h	/^    DOMTokenList* classList();$/;"	p	language:C++	class:WebCore::Element
+clearChildNodeListCache	/home/zhaopan/fromchang/Node.cpp	/^void NodeRareData::clearChildNodeListCache()$/;"	f	language:C++	class:WebCore::NodeRareData
+clearRareData	/home/zhaopan/fromchang/Node.cpp	/^void Node::clearRareData()$/;"	f	language:C++	class:WebCore::Node
+clearTabIndexExplicitly	/home/zhaopan/fromchang/Node.cpp	/^void Node::clearTabIndexExplicitly()$/;"	f	language:C++	class:WebCore::Node
+cloneElementWithChildren	/home/zhaopan/fromchang/Element.cpp	/^PassRefPtr<Element> Element::cloneElementWithChildren()$/;"	f	language:C++	class:WebCore::Element
+cloneElementWithChildren	/home/zhaopan/fromchang/Element.h	/^    PassRefPtr<Element> cloneElementWithChildren();$/;"	p	language:C++	class:WebCore::Element
+cloneElementWithoutAttributesAndChildren	/home/zhaopan/fromchang/Element.cpp	/^PassRefPtr<Element> Element::cloneElementWithoutAttributesAndChildren()$/;"	f	language:C++	class:WebCore::Element
+cloneElementWithoutAttributesAndChildren	/home/zhaopan/fromchang/Element.h	/^    virtual PassRefPtr<Element> cloneElementWithoutAttributesAndChildren();$/;"	p	language:C++	class:WebCore::Element
+cloneElementWithoutChildren	/home/zhaopan/fromchang/Element.cpp	/^PassRefPtr<Element> Element::cloneElementWithoutChildren()$/;"	f	language:C++	class:WebCore::Element
+cloneElementWithoutChildren	/home/zhaopan/fromchang/Element.h	/^    PassRefPtr<Element> cloneElementWithoutChildren();$/;"	p	language:C++	class:WebCore::Element
+cloneNode	/home/zhaopan/fromchang/Element.cpp	/^PassRefPtr<Node> Element::cloneNode(bool deep)$/;"	f	language:C++	class:WebCore::Element
+cloneNode	/home/zhaopan/fromchang/Element.h	/^    virtual PassRefPtr<Node> cloneNode(bool deep);$/;"	p	language:C++	class:WebCore::Element
+close	/home/zhaopan/webstemmer-dist-0.7.1/tools/html2txt.py	/^    def close(self): pass$/;"	m	language:Python	class:.out
+close	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def close(self):$/;"	m	language:Python	class:PageFeeder
+close	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^    def close(self):$/;"	m	language:Python	class:GzipFile
+close	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^  def close(self):$/;"	m	language:Python	class:HTMLParser3
+close	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def close(self):$/;"	m	language:Python	class:FakeSocket
+close	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def close(self):$/;"	m	language:Python	class:HTTP
+close	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def close(self):$/;"	m	language:Python	class:HTTPConnection
+close	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def close(self):$/;"	m	language:Python	class:HTTPResponse
+close	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def close(self):$/;"	m	language:Python	class:SharedSocketClient
+close	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/tools/html2txt.py	/^    def close(self): pass$/;"	m	language:Python	class:.out
+close	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def close(self):$/;"	m	language:Python	class:PageFeeder
+cluster_seq	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^def cluster_seq(s1, s2, eq):$/;"	f	language:Python
+collectMatchingObserversForMutation	/home/zhaopan/fromchang/Node.cpp	/^void Node::collectMatchingObserversForMutation(HashMap<WebKitMutationObserver*, MutationRecordDeliveryOptions>& observers, Node* fromNode, WebKitMutationObserver::MutationType type, const AtomicString& attributeName)$/;"	f	language:C++	class:WebCore::Node
+compare	/home/zhaopan/test/template.cpp	/^template <typename T> int compare(T s1, T s3) {$/;"	f	language:C++
+compareDocumentPosition	/home/zhaopan/fromchang/Node.cpp	/^unsigned short Node::compareDocumentPosition(Node* otherNode)$/;"	f	language:C++	class:WebCore::Node
+computeInheritedLanguage	/home/zhaopan/fromchang/Element.cpp	/^AtomicString Element::computeInheritedLanguage() const$/;"	f	language:C++	class:WebCore::Element
+computeInheritedLanguage	/home/zhaopan/fromchang/Element.h	/^    AtomicString computeInheritedLanguage() const;$/;"	p	language:C++	class:WebCore::Element
+concat	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^     CDATA_TAGS, INLINE_IMMED_TAGS, FORM_FIELD_TAGS, NON_NESTED_TAGS, NON_DISPLAYED_TAGS, BREAK_LINE_TAGS$/;"	i	language:Python
+concat	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^from webstemmer.htmlutils import concat$/;"	i	language:Python
+CONFLICT	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^CONFLICT = 409$/;"	v	language:Python
+connect	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def connect(self):$/;"	m	language:Python	class:HTTPConnection
+connect	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def connect(self):$/;"	m	language:Python	class:HTTPSConnection
+connect	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def connect(self, host=None, port=None):$/;"	m	language:Python	class:HTTP
+contains	/home/zhaopan/fromchang/Node.cpp	/^bool Node::contains(const Node* node) const$/;"	f	language:C++	class:WebCore::Node
+containsIncludingShadowDOM	/home/zhaopan/fromchang/Node.cpp	/^bool Node::containsIncludingShadowDOM(Node* node)$/;"	f	language:C++	class:WebCore::Node
+CONTENT_TYPE_PAT	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  CONTENT_TYPE_PAT = re.compile(r'([^\\s;]+)(.*charset=([^\\s;]+))?', re.I)$/;"	v	language:Python	class:SimpleCrawler
+CONTINUE	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^CONTINUE = 100$/;"	v	language:Python
+copyNonAttributeProperties	/home/zhaopan/fromchang/Element.cpp	/^void Element::copyNonAttributeProperties(const Element*)$/;"	f	language:C++	class:WebCore::Element
+copyNonAttributeProperties	/home/zhaopan/fromchang/Element.h	/^    virtual void copyNonAttributeProperties(const Element* source);$/;"	p	language:C++	class:WebCore::Element
+CPP	/home/zhaopan/zlib-1.2.3/Makefile	/^CPP=gcc -E$/;"	m	language:Make
+crawl1	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  def crawl1(self):$/;"	m	language:Python	class:SimpleCrawler
+CrawlerFatalError	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^class CrawlerFatalError(RuntimeError): pass$/;"	c	language:Python
+CrawlerPageError	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^class CrawlerPageError(RuntimeError): pass$/;"	c	language:Python
+CrawlerWarning	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^class CrawlerWarning(RuntimeError): pass$/;"	c	language:Python
+create	/home/zhaopan/fromchang/Element.cpp	/^PassRefPtr<Element> Element::create(const QualifiedName& tagName, Document* document)$/;"	f	language:C++	class:WebCore::Element
+create	/home/zhaopan/fromchang/Element.h	/^    static PassRefPtr<Element> create(const QualifiedName&, Document*);$/;"	p	language:C++	class:WebCore::Element
+createAttribute	/home/zhaopan/fromchang/Element.cpp	/^PassRefPtr<Attribute> Element::createAttribute(const QualifiedName& name, const AtomicString& value)$/;"	f	language:C++	class:WebCore::Element
+createAttribute	/home/zhaopan/fromchang/Element.h	/^    virtual PassRefPtr<Attribute> createAttribute(const QualifiedName&, const AtomicString& value);$/;"	p	language:C++	class:WebCore::Element
+createAttributeMap	/home/zhaopan/fromchang/Element.cpp	/^void Element::createAttributeMap() const$/;"	f	language:C++	class:WebCore::Element
+createAttributeMap	/home/zhaopan/fromchang/Element.h	/^    void createAttributeMap() const;$/;"	p	language:C++	class:WebCore::Element
+CREATED	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^CREATED = 201$/;"	v	language:Python
+CreateElement	/home/zhaopan/NuDom/DOMDocument.cc	/^    DomElement * CreateElement(char * tag_name) {$/;"	f	language:C++	class:DOMDocument
+CreateElement	/home/zhaopan/NuDom/DOMNode.cc	/^    DOMNode * CreateElement(char *element_name) {$/;"	f	language:C++	class:DOMNode
+createNodeLists	/home/zhaopan/fromchang/Node.cpp	/^void NodeRareData::createNodeLists(Node* node)$/;"	f	language:C++	class:WebCore::NodeRareData
+createRareData	/home/zhaopan/fromchang/Element.cpp	/^OwnPtr<NodeRareData> Element::createRareData()$/;"	f	language:C++	class:WebCore::Element
+createRareData	/home/zhaopan/fromchang/Element.h	/^    virtual OwnPtr<NodeRareData> createRareData();$/;"	p	language:C++	class:WebCore::Element
+createRareData	/home/zhaopan/fromchang/Node.cpp	/^OwnPtr<NodeRareData> Node::createRareData()$/;"	f	language:C++	class:WebCore::Node
+CUTSP	/home/zhaopan/webstemmer-dist-0.7.1/tools/html2txt.py	/^  CUTSP = re.compile(ur'([\\u3000-\\u9fff])\\n+([\\u3000-\\u9fff])')$/;"	v	language:Python	class:HTMLTextHandler
+CUTSP	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/tools/html2txt.py	/^  CUTSP = re.compile(ur'([\\u3000-\\u9fff])\\n+([\\u3000-\\u9fff])')$/;"	v	language:Python	class:HTMLTextHandler
+dataset	/home/zhaopan/fromchang/Element.cpp	/^DOMStringMap* Element::dataset()$/;"	f	language:C++	class:WebCore::Element
+dataset	/home/zhaopan/fromchang/Element.h	/^    DOMStringMap* dataset();$/;"	p	language:C++	class:WebCore::Element
+dbmopen	/home/zhaopan/webstemmer-dist-0.7.1/tools/urldbutils.py	/^from bsddb import hashopen as dbmopen$/;"	i	language:Python
+dbmopen	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^from bsddb import hashopen as dbmopen$/;"	i	language:Python
+debug	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^debug = 0$/;"	v	language:Python
+debuglevel	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    debuglevel = 0$/;"	v	language:Python	class:HTTP
+debuglevel	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    debuglevel = 0$/;"	v	language:Python	class:HTTPConnection
+decref	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def decref(self):$/;"	m	language:Python	class:SharedSocket
+default_port	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    default_port = HTTPS_PORT$/;"	v	language:Python	class:HTTPSConnection
+default_port	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    default_port = HTTP_PORT$/;"	v	language:Python	class:HTTPConnection
+DEFINE_DEBUG_ONLY_GLOBAL	/home/zhaopan/fromchang/Node.cpp	/^DEFINE_DEBUG_ONLY_GLOBAL(HashSet<Node*>, ignoreSet, );$/;"	p	language:C++	namespace:WebCore	file:
+DEFINE_DEBUG_ONLY_GLOBAL	/home/zhaopan/fromchang/Node.cpp	/^DEFINE_DEBUG_ONLY_GLOBAL(WTF::RefCountedLeakCounter, nodeCounter, ("WebCoreNode"));$/;"	p	language:C++	namespace:WebCore	file:
+derefEventTarget	/home/zhaopan/fromchang/Node.cpp	/^void Node::derefEventTarget()$/;"	f	language:C++	class:WebCore::Node
+description	/home/zhaopan/webstemmer-dist-0.7.1/setup.py	/^      description='Web crawler and HTML layout analyzer',$/;"	v	language:Python
+dice_coeff	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^def dice_coeff(s1, s2):$/;"	f	language:Python
+dice_coeff	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^def dice_coeff(s1, s2):$/;"	f	language:Python
+didBecomeFullscreenElement	/home/zhaopan/fromchang/Element.h	/^    virtual void didBecomeFullscreenElement() { }$/;"	f	language:C++	class:WebCore::Element
+didMoveToNewDocumentWasCalled	/home/zhaopan/fromchang/Node.cpp	/^static bool didMoveToNewDocumentWasCalled;$/;"	m	language:C++	namespace:WebCore	file:
+diff_score	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^def diff_score(s1, s2):$/;"	f	language:Python
+diff_score	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^def diff_score(s1, s2):$/;"	f	language:Python
+dirname	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from os.path import dirname$/;"	i	language:Python
+dirname	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from os.path import dirname$/;"	i	language:Python
+disabled	/home/zhaopan/fromchang/Node.cpp	/^bool Node::disabled() const$/;"	f	language:C++	class:WebCore::Node
+dispdb	/home/zhaopan/webstemmer-dist-0.7.1/tools/urldbutils.py	/^def dispdb(fname, threshold, verbose):$/;"	f	language:Python
+DISTFILE	/home/zhaopan/webstemmer-dist-0.7.1/Makefile	/^DISTFILE=\/tmp\/$(DISTNAME).tar.gz$/;"	m	language:Make
+DISTNAME	/home/zhaopan/webstemmer-dist-0.7.1/Makefile	/^DISTNAME=$(PACKAGE)-dist-$(VERSION)$/;"	m	language:Make
+DOMDocument	/home/zhaopan/NuDom/DOMDocument.cc	/^class DOMDocument{$/;"	c	language:C++	file:
+DOMElement	/home/zhaopan/NuDom/DOMElement.cc	/^class DOMElement {$/;"	c	language:C++	file:
+DOMNode	/home/zhaopan/NuDom/DOMNode.cc	/^class DOMNode{$/;"	c	language:C++	file:
+do_unknown	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def do_unknown(self, tag, attrs):$/;"	m	language:Python	class:HTMLDocumentBuilder
+do_unknown	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^  def do_unknown(self, tag, attrs):$/;"	m	language:Python	class:HTMLHandler
+do_unknown	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  def do_unknown(self, tag, attrs):$/;"	m	language:Python	class:HTMLLinkFinder
+dump	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def dump(self):$/;"	m	language:Python	class:LayoutCluster
+dump	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def dump(self):$/;"	m	language:Python	class:HTMLElement
+dump	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  def dump(self):$/;"	m	language:Python	class:RefTextDB
+dump	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def dump(self):$/;"	m	language:Python	class:LayoutCluster
+dumpStatistics	/home/zhaopan/fromchang/Node.cpp	/^void Node::dumpStatistics()$/;"	f	language:C++	class:WebCore::Node
+DUMP_NODE_STATISTICS	/home/zhaopan/fromchang/Node.cpp	122;"	d	language:C++	file:
+dump_text	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^  def dump_text(self, name, tree,$/;"	m	language:Python	class:LayoutPatternSet
+dup	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def dup(self):$/;"	m	language:Python	class:HTMLElement
+dup	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def dup(self):$/;"	m	language:Python	class:HTMLRootElement
+Element	/home/zhaopan/fromchang/Element.h	/^    Element(const QualifiedName& tagName, Document* document, ConstructionType type)$/;"	f	language:C++	class:WebCore::Element
+Element	/home/zhaopan/fromchang/Element.h	/^class Element : public ContainerNode {$/;"	c	language:C++	namespace:WebCore
+Element_h	/home/zhaopan/fromchang/Element.h	26;"	d	language:C++
+enclosingLinkEventParentOrSelf	/home/zhaopan/fromchang/Node.cpp	/^Node* Node::enclosingLinkEventParentOrSelf()$/;"	f	language:C++	class:WebCore::Node
+encoder	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  encoder = getencoder(codec_out)$/;"	v	language:Python
+encode_element	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^def encode_element(e):$/;"	f	language:Python
+encode_element2	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^    def encode_element2(e):$/;"	f	language:Python	function:LayoutAnalyzer.set_encoder
+encode_element2	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^    def encode_element2(e):$/;"	f	language:Python	function:LayoutPatternSet.set_encoder
+encode_element2	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^    def encode_element2(e):$/;"	f	language:Python	function:LayoutAnalyzer.set_encoder
+endheaders	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def endheaders(self):$/;"	m	language:Python	class:HTTPConnection
+end_a	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  def end_a(self, _):$/;"	m	language:Python	class:HTMLLinkFinder
+end_area	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  end_area = end_a$/;"	v	language:Python	class:HTMLLinkFinder
+end_comment	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  def end_comment(self, _):$/;"	m	language:Python	class:HTMLLinkFinder
+end_previous	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^  def end_previous(self, tags, stops):$/;"	m	language:Python	class:HTMLParser3
+end_unknown	/home/zhaopan/webstemmer-dist-0.7.1/tools/html2txt.py	/^  def end_unknown(self, tag):$/;"	m	language:Python	class:HTMLTextHandler
+end_unknown	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def end_unknown(self, tag):$/;"	m	language:Python	class:HTMLDocumentBuilder
+end_unknown	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^  def end_unknown(self, tag):$/;"	m	language:Python	class:HTMLHandler
+end_unknown	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  def end_unknown(self, tag):$/;"	m	language:Python	class:HTMLLinkFinder
+end_unknown	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/tools/html2txt.py	/^  def end_unknown(self, tag):$/;"	m	language:Python	class:HTMLTextHandler
+ensureCachedHTMLCollection	/home/zhaopan/fromchang/Element.cpp	/^HTMLCollection* Element::ensureCachedHTMLCollection(CollectionType type)$/;"	f	language:C++	class:WebCore::Element
+ensureCachedHTMLCollection	/home/zhaopan/fromchang/Element.h	/^    HTMLCollection* ensureCachedHTMLCollection(CollectionType);$/;"	p	language:C++	class:WebCore::Element
+ensureRareData	/home/zhaopan/fromchang/Element.cpp	/^inline ElementRareData* Element::ensureRareData()$/;"	f	language:C++	class:WebCore::Element
+ensureRareData	/home/zhaopan/fromchang/Element.h	/^    ElementRareData* ensureRareData();$/;"	p	language:C++	class:WebCore::Element
+ensureRareData	/home/zhaopan/fromchang/Node.cpp	/^NodeRareData* Node::ensureRareData()$/;"	f	language:C++	class:WebCore::Node
+ensureShadowRoot	/home/zhaopan/fromchang/Element.cpp	/^ShadowRoot* Element::ensureShadowRoot()$/;"	f	language:C++	class:WebCore::Element
+ensureShadowRoot	/home/zhaopan/fromchang/Element.h	/^    ShadowRoot* ensureShadowRoot();$/;"	p	language:C++	class:WebCore::Element
+errno	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^            import errno$/;"	i	language:Python
+errno	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^            import errno$/;"	i	language:Python
+errno	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^import errno$/;"	i	language:Python
+error	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^error = HTTPException$/;"	v	language:Python
+EXE	/home/zhaopan/zlib-1.2.3/Makefile	/^EXE=$/;"	m	language:Make
+exec_prefix	/home/zhaopan/zlib-1.2.3/Makefile	/^exec_prefix =${prefix}$/;"	m	language:Make
+EXPECTATION_FAILED	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^EXPECTATION_FAILED = 417$/;"	v	language:Python
+FAILED_DEPENDENCY	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^FAILED_DEPENDENCY = 424$/;"	v	language:Python
+FakeSocket	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^class FakeSocket(SharedSocketClient):$/;"	c	language:Python
+fastAttributeLookupAllowed	/home/zhaopan/fromchang/Element.cpp	/^bool Element::fastAttributeLookupAllowed(const QualifiedName& name) const$/;"	f	language:C++	class:WebCore::Element
+fastAttributeLookupAllowed	/home/zhaopan/fromchang/Element.h	/^    bool fastAttributeLookupAllowed(const QualifiedName&) const;$/;"	p	language:C++	class:WebCore::Element
+fastGetAttribute	/home/zhaopan/fromchang/Element.h	/^    const AtomicString& fastGetAttribute(const QualifiedName&) const;$/;"	p	language:C++	class:WebCore::Element
+fastGetAttribute	/home/zhaopan/fromchang/Element.h	/^inline const AtomicString& Element::fastGetAttribute(const QualifiedName& name) const$/;"	f	language:C++	class:WebCore::Element
+fastHasAttribute	/home/zhaopan/fromchang/Element.h	/^    bool fastHasAttribute(const QualifiedName&) const;$/;"	p	language:C++	class:WebCore::Element
+fastHasAttribute	/home/zhaopan/fromchang/Element.h	/^inline bool Element::fastHasAttribute(const QualifiedName& name) const$/;"	f	language:C++	class:WebCore::Element
+feed	/home/zhaopan/webstemmer-dist-0.7.1/tools/html2txt.py	/^    def feed(self, s):$/;"	m	language:Python	class:.out
+feed	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/tools/html2txt.py	/^    def feed(self, s):$/;"	m	language:Python	class:.out
+feed_byte	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^  def feed_byte(self, byte, pos=0):$/;"	m	language:Python	class:HTMLParser3
+feed_file	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^  def feed_file(self, fp, pos=0):$/;"	m	language:Python	class:HTMLParser3
+feed_page	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def feed_page(self, name, data):$/;"	m	language:Python	class:PageFeeder
+feed_page	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^  def feed_page(self, name, fp):$/;"	m	language:Python	class:TextExtractor
+feed_page	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def feed_page(self, name, data):$/;"	m	language:Python	class:PageFeeder
+feed_tree	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^  def feed_tree(self, name, tree):$/;"	m	language:Python	class:TextExtractor
+fileno	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^    def fileno(self):$/;"	m	language:Python	class:GzipFile
+fileno	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def fileno(self):$/;"	m	language:Python	class:SSLFile
+find_clusters	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^def find_clusters(para_blocks):$/;"	f	language:Python
+find_clusters	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^def find_clusters(para_blocks):$/;"	f	language:Python
+find_common	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def find_common(seqs):$/;"	f	language:Python	function:find_clusters
+find_common	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def find_common(seqs):$/;"	f	language:Python	function:find_clusters
+find_lcs	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^def find_lcs(s1, s2):$/;"	f	language:Python
+find_lcs	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^def find_lcs(s1, s2):$/;"	f	language:Python
+finish	/home/zhaopan/webstemmer-dist-0.7.1/tools/html2txt.py	/^  def finish(self):$/;"	m	language:Python	class:HTMLTextHandler
+finish	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def finish(self):$/;"	m	language:Python	class:HTMLDocumentBuilder
+finish	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def finish(self):$/;"	m	language:Python	class:HTMLElement
+finish	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def finish(self):$/;"	m	language:Python	class:HTMLRootElement
+finish	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^  def finish(self):$/;"	m	language:Python	class:HTMLHandler
+finish	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  def finish(self):$/;"	m	language:Python	class:HTMLLinkFinder
+finish	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/tools/html2txt.py	/^  def finish(self):$/;"	m	language:Python	class:HTMLTextHandler
+finishParsingChildren	/home/zhaopan/fromchang/Element.cpp	/^void Element::finishParsingChildren()$/;"	f	language:C++	class:WebCore::Element
+finishParsingChildren	/home/zhaopan/fromchang/Element.h	/^    virtual void finishParsingChildren();$/;"	p	language:C++	class:WebCore::Element
+first	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^def first(seq, x=None):$/;"	f	language:Python
+firstDescendant	/home/zhaopan/fromchang/Node.cpp	/^Node* Node::firstDescendant() const$/;"	f	language:C++	class:WebCore::Node
+firstElementChild	/home/zhaopan/fromchang/Element.cpp	/^Element* Element::firstElementChild() const$/;"	f	language:C++	class:WebCore::Element
+firstElementChild	/home/zhaopan/fromchang/Element.h	/^    Element* firstElementChild() const;$/;"	p	language:C++	class:WebCore::Element
+firstElementChild	/home/zhaopan/fromchang/Element.h	/^inline Element* firstElementChild(const ContainerNode* container)$/;"	f	language:C++	namespace:WebCore
+fixate	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def fixate(self, title_threshold):$/;"	m	language:Python	class:LayoutCluster
+fixate	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def fixate(self, title_threshold):$/;"	m	language:Python	class:LayoutCluster
+flush	/home/zhaopan/webstemmer-dist-0.7.1/tools/html2txt.py	/^  def flush(self, newline=False):$/;"	m	language:Python	class:HTMLTextHandler
+flush	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^    def flush(self):$/;"	m	language:Python	class:GzipFile
+flush	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/tools/html2txt.py	/^  def flush(self, newline=False):$/;"	m	language:Python	class:HTMLTextHandler
+FORBIDDEN	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^FORBIDDEN = 403$/;"	v	language:Python
+formatForDebugger	/home/zhaopan/fromchang/Element.cpp	/^void Element::formatForDebugger(char* buffer, unsigned length) const$/;"	f	language:C++	class:WebCore::Element
+formatForDebugger	/home/zhaopan/fromchang/Element.h	/^    virtual void formatForDebugger(char* buffer, unsigned length) const;$/;"	p	language:C++	class:WebCore::Element
+formatForDebugger	/home/zhaopan/fromchang/Node.cpp	/^void Node::formatForDebugger(char* buffer, unsigned length) const$/;"	f	language:C++	class:WebCore::Node
+formControlName	/home/zhaopan/fromchang/Element.h	/^    virtual const AtomicString& formControlName() const { return nullAtom; }$/;"	f	language:C++	class:WebCore::Element
+formControlType	/home/zhaopan/fromchang/Element.h	/^    virtual const AtomicString& formControlType() const { return nullAtom; }$/;"	f	language:C++	class:WebCore::Element
+FORM_FIELD_TAGS	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^     CDATA_TAGS, INLINE_IMMED_TAGS, FORM_FIELD_TAGS, NON_NESTED_TAGS, NON_DISPLAYED_TAGS, BREAK_LINE_TAGS$/;"	i	language:Python
+FOUND	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^FOUND = 302$/;"	v	language:Python
+fun	/home/zhaopan/test/hello.py	/^import fun$/;"	i	language:Python
+fun	/home/zhaopan/test/main.c	/^char *fun(char *temp)$/;"	f	language:C
+FUN	/home/zhaopan/test/td.c	/^typedef char* (*FUN)(int, int );$/;"	t	language:C	file:
+g:easytags_always_enabled	/home/zhaopan/.vimrc	/^let g:easytags_always_enabled = 1$/;"	v	language:Vim
+g:easytags_always_enabled	/home/zhaopan/myNotes/dayNotes/vimrc	/^let g:easytags_always_enabled = 1$/;"	v	language:Vim
+g:easytags_dynamic_files	/home/zhaopan/.vimrc	/^let g:easytags_dynamic_files = 1$/;"	v	language:Vim
+g:easytags_dynamic_files	/home/zhaopan/myNotes/dayNotes/vimrc	/^let g:easytags_dynamic_files = 1$/;"	v	language:Vim
+g:easytags_file	/home/zhaopan/.vimrc	/^let g:easytags_file = '~\/.vim\/tags'$/;"	v	language:Vim
+g:easytags_file	/home/zhaopan/myNotes/dayNotes/vimrc	/^let g:easytags_file = '~\/.vim\/tags'$/;"	v	language:Vim
+GATEWAY_TIMEOUT	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^GATEWAY_TIMEOUT = 504$/;"	v	language:Python
+get	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def get(self, *keys):$/;"	m	language:Python	class:HTMLElement
+get1	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  def get1(self, url, maxretry=3, maxredirect=3):$/;"	m	language:Python	class:SimpleCrawler
+getAttribute	/home/zhaopan/fromchang/Element.cpp	/^const AtomicString& Element::getAttribute(const QualifiedName& name) const$/;"	f	language:C++	class:WebCore::Element
+getAttribute	/home/zhaopan/fromchang/Element.cpp	/^const AtomicString& Element::getAttribute(const String& name) const$/;"	f	language:C++	class:WebCore::Element
+getAttribute	/home/zhaopan/fromchang/Element.h	/^    const AtomicString& getAttribute(const QualifiedName&) const;$/;"	p	language:C++	class:WebCore::Element
+getAttribute	/home/zhaopan/fromchang/Element.h	/^    const AtomicString& getAttribute(const String& name) const;$/;"	p	language:C++	class:WebCore::Element
+getAttributeNode	/home/zhaopan/fromchang/Element.cpp	/^PassRefPtr<Attr> Element::getAttributeNode(const String& name)$/;"	f	language:C++	class:WebCore::Element
+getAttributeNode	/home/zhaopan/fromchang/Element.h	/^    PassRefPtr<Attr> getAttributeNode(const String& name);$/;"	p	language:C++	class:WebCore::Element
+getAttributeNodeNS	/home/zhaopan/fromchang/Element.cpp	/^PassRefPtr<Attr> Element::getAttributeNodeNS(const String& namespaceURI, const String& localName)$/;"	f	language:C++	class:WebCore::Element
+getAttributeNodeNS	/home/zhaopan/fromchang/Element.h	/^    PassRefPtr<Attr> getAttributeNodeNS(const String& namespaceURI, const String& localName);$/;"	p	language:C++	class:WebCore::Element
+getAttributeNS	/home/zhaopan/fromchang/Element.cpp	/^const AtomicString& Element::getAttributeNS(const String& namespaceURI, const String& localName) const$/;"	f	language:C++	class:WebCore::Element
+getAttributeNS	/home/zhaopan/fromchang/Element.h	/^    const AtomicString& getAttributeNS(const String& namespaceURI, const String& localName) const;$/;"	p	language:C++	class:WebCore::Element
+GetAttributeValue	/home/zhaopan/NuDom/DOMElement.cc	/^    string GetAttributeValue(const string name) {$/;"	f	language:C++	class:DOMElement
+getblocks	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^  def getblocks(self, e):$/;"	m	language:Python	class:Chunker
+GetChildNodes	/home/zhaopan/NuDom/DOMNode.cc	/^    DomNodeList * GetChildNodes() {$/;"	f	language:C++	class:DOMNode
+getdecoder	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^from webstemmer.htmlutils import getdecoder, BLOCK_TAGS, CDATA_TAGS, INLINE_IMMED_TAGS, NON_NESTED_TAGS, VALID_TAGS$/;"	i	language:Python
+GetDocumentRoot	/home/zhaopan/NuDom/DOMDocument.cc	/^    DomElement * GetDocumentRoot() {$/;"	f	language:C++	class:DOMDocument
+GetElementByTagName	/home/zhaopan/NuDom/DOMDocument.cc	/^    DomNodeList * GetElementByTagName(char * element_name) {$/;"	f	language:C++	class:DOMDocument
+getElementsByClassName	/home/zhaopan/fromchang/Node.cpp	/^PassRefPtr<NodeList> Node::getElementsByClassName(const String& classNames)$/;"	f	language:C++	class:WebCore::Node
+getElementsByName	/home/zhaopan/fromchang/Node.cpp	/^PassRefPtr<NodeList> Node::getElementsByName(const String& elementName)$/;"	f	language:C++	class:WebCore::Node
+getElementsByTagName	/home/zhaopan/fromchang/Node.cpp	/^PassRefPtr<NodeList> Node::getElementsByTagName(const AtomicString& localName)$/;"	f	language:C++	class:WebCore::Node
+getElementsByTagNameNS	/home/zhaopan/fromchang/Node.cpp	/^PassRefPtr<NodeList> Node::getElementsByTagNameNS(const AtomicString& namespaceURI, const AtomicString& localName)$/;"	f	language:C++	class:WebCore::Node
+getencoder	/home/zhaopan/webstemmer-dist-0.7.1/tools/html2txt.py	/^from webstemmer.htmlutils import rmsp, getencoder$/;"	i	language:Python
+getencoder	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^     CDATA_TAGS, INLINE_IMMED_TAGS, FORM_FIELD_TAGS, NON_NESTED_TAGS, NON_DISPLAYED_TAGS, BREAK_LINE_TAGS$/;"	i	language:Python
+getencoder	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/tools/html2txt.py	/^from webstemmer.htmlutils import rmsp, getencoder$/;"	i	language:Python
+getfile	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def getfile(self):$/;"	m	language:Python	class:HTTP
+GetFirstNode	/home/zhaopan/NuDom/DOMNode.cc	/^    DomNode * GetFirstNode() {$/;"	f	language:C++	class:DOMNode
+getheader	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def getheader(self, name, default=None):$/;"	m	language:Python	class:HTTPResponse
+getheaders	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def getheaders(self):$/;"	m	language:Python	class:HTTPResponse
+getIdAttribute	/home/zhaopan/fromchang/Element.h	/^    const AtomicString& getIdAttribute() const;$/;"	p	language:C++	class:WebCore::Element
+getIdAttribute	/home/zhaopan/fromchang/Element.h	/^inline const AtomicString& Element::getIdAttribute() const$/;"	f	language:C++	class:WebCore::Element
+getIntegralAttribute	/home/zhaopan/fromchang/Element.cpp	/^int Element::getIntegralAttribute(const QualifiedName& attributeName) const$/;"	f	language:C++	class:WebCore::Element
+getIntegralAttribute	/home/zhaopan/fromchang/Element.h	/^    int getIntegralAttribute(const QualifiedName& attributeName) const;$/;"	p	language:C++	class:WebCore::Element
+GetLastChild	/home/zhaopan/NuDom/DOMNode.cc	/^    DomNode * GetLastChild() {$/;"	f	language:C++	class:DOMNode
+GetLocalName	/home/zhaopan/NuDom/DOMNode.cc	/^    string GetLocalName() {$/;"	f	language:C++	class:DOMNode
+GetNextSibling	/home/zhaopan/NuDom/DOMNode.cc	/^    DomNode * GetNextSibling() {$/;"	f	language:C++	class:DOMNode
+GetNodeByTagName	/home/zhaopan/NuDom/DOMNode.cc	/^    DomNodeList * GetNodeByTagName(char * element_name) {$/;"	f	language:C++	class:DOMNode
+GetNodeName	/home/zhaopan/NuDom/DOMNode.cc	/^    char * GetNodeName() {$/;"	f	language:C++	class:DOMNode
+GetNodeType	/home/zhaopan/NuDom/DOMNode.cc	/^    NodeType GetNodeType() {$/;"	f	language:C++	class:DOMNode
+GetNodeValue	/home/zhaopan/NuDom/DOMNode.cc	/^    char * GetNodeValue() {$/;"	f	language:C++	class:DOMNode
+getNonEmptyURLAttribute	/home/zhaopan/fromchang/Element.cpp	/^KURL Element::getNonEmptyURLAttribute(const QualifiedName& name) const$/;"	f	language:C++	class:WebCore::Element
+getNonEmptyURLAttribute	/home/zhaopan/fromchang/Element.h	/^    KURL getNonEmptyURLAttribute(const QualifiedName&) const;$/;"	p	language:C++	class:WebCore::Element
+getopt	/home/zhaopan/test/arg.py	/^import getopt$/;"	i	language:Python
+getopt	/home/zhaopan/webstemmer-dist-0.7.1/tools/html2txt.py	/^  import getopt, urllib$/;"	i	language:Python
+getopt	/home/zhaopan/webstemmer-dist-0.7.1/tools/urldbutils.py	/^  import getopt$/;"	i	language:Python
+getopt	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  import getopt$/;"	i	language:Python
+getopt	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^  import getopt$/;"	i	language:Python
+getopt	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  import getopt, agent$/;"	i	language:Python
+getopt	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^  import getopt$/;"	i	language:Python
+getopt	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    import getopt$/;"	i	language:Python
+getopt	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  import getopt$/;"	i	language:Python
+getopt	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/tools/html2txt.py	/^  import getopt, urllib$/;"	i	language:Python
+getopt	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  import getopt$/;"	i	language:Python
+GetParentNode	/home/zhaopan/NuDom/DOMNode.cc	/^    DomNode * GetParentNode() {$/;"	f	language:C++	class:DOMNode
+GetPreviousSibling	/home/zhaopan/NuDom/DOMNode.cc	/^    DOMNode * GetPreviousSibling() {$/;"	f	language:C++	class:DOMNode
+getRegisteredMutationObserversOfType	/home/zhaopan/fromchang/Node.cpp	/^void Node::getRegisteredMutationObserversOfType(HashMap<WebKitMutationObserver*, MutationRecordDeliveryOptions>& observers, WebKitMutationObserver::MutationType type, const AtomicString& attributeName)$/;"	f	language:C++	class:WebCore::Node
+getreply	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def getreply(self):$/;"	m	language:Python	class:HTTP
+getresponse	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def getresponse(self):$/;"	m	language:Python	class:HTTPConnection
+getUnsignedIntegralAttribute	/home/zhaopan/fromchang/Element.cpp	/^unsigned Element::getUnsignedIntegralAttribute(const QualifiedName& attributeName) const$/;"	f	language:C++	class:WebCore::Element
+getUnsignedIntegralAttribute	/home/zhaopan/fromchang/Element.h	/^    unsigned getUnsignedIntegralAttribute(const QualifiedName& attributeName) const;$/;"	p	language:C++	class:WebCore::Element
+getURLAttribute	/home/zhaopan/fromchang/Element.cpp	/^KURL Element::getURLAttribute(const QualifiedName& name) const$/;"	f	language:C++	class:WebCore::Element
+getURLAttribute	/home/zhaopan/fromchang/Element.h	/^    KURL getURLAttribute(const QualifiedName&) const;$/;"	p	language:C++	class:WebCore::Element
+get_links	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def get_links(self, normalize=False):$/;"	m	language:Python	class:HTMLElement
+get_text	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def get_text(self, ignore_tags=NON_DISPLAYED_TAGS, br_tags=BREAK_LINE_TAGS):$/;"	m	language:Python	class:HTMLElement
+get_textblocks	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from webstemmer.layoutils import sigchars, get_textblocks, retrieve_blocks, WEBSTEMMER_VERSION, KEY_ATTRS$/;"	i	language:Python
+get_textblocks	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^from webstemmer.layoutils import sigchars, get_textblocks, retrieve_blocks, WEBSTEMMER_VERSION, KEY_ATTRS$/;"	i	language:Python
+get_textblocks	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^def get_textblocks(e, encoder=None):$/;"	f	language:Python
+get_textblocks	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from webstemmer.layoutils import sigchars, get_textblocks, retrieve_blocks, WEBSTEMMER_VERSION, KEY_ATTRS$/;"	i	language:Python
+get_title	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def get_title(self):$/;"	m	language:Python	class:HTMLRootElement
+GIT	/home/zhaopan/webstemmer-dist-0.7.1/Makefile	/^GIT=git$/;"	m	language:Make
+gmax	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^def gmax(seq, key=lambda x:x, default=object()):$/;"	f	language:Python
+gmax	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^def gmax(seq, key=lambda x:x, default=object()):$/;"	f	language:Python
+GONE	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^GONE = 410$/;"	v	language:Python
+GzipFile	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^class GzipFile:$/;"	c	language:Python
+GzipFile	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^from gzip import GzipFile$/;"	i	language:Python
+handle_characters	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^  def handle_characters(self, data):$/;"	m	language:Python	class:HTMLParser3
+handle_data	/home/zhaopan/webstemmer-dist-0.7.1/tools/html2txt.py	/^  def handle_data(self, data):$/;"	m	language:Python	class:HTMLTextHandler
+handle_data	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def handle_data(self, s):$/;"	m	language:Python	class:HTMLDocumentBuilder
+handle_data	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^  def handle_data(self, data):$/;"	m	language:Python	class:HTMLHandler
+handle_data	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  def handle_data(self, data):$/;"	m	language:Python	class:HTMLLinkFinder
+handle_data	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/tools/html2txt.py	/^  def handle_data(self, data):$/;"	m	language:Python	class:HTMLTextHandler
+handle_decl	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^  def handle_decl(self, data):$/;"	m	language:Python	class:HTMLParser3
+handle_directive	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^  def handle_directive(self, name, attrs):$/;"	m	language:Python	class:HTMLParser3
+handle_end_tag	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^  def handle_end_tag(self, tag, _):$/;"	m	language:Python	class:HTMLParser3
+handle_start_tag	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^  def handle_start_tag(self, tag, attrs):$/;"	m	language:Python	class:HTMLParser3
+hasAttribute	/home/zhaopan/fromchang/Element.cpp	/^bool Element::hasAttribute(const QualifiedName& name) const$/;"	f	language:C++	class:WebCore::Element
+hasAttribute	/home/zhaopan/fromchang/Element.cpp	/^bool Element::hasAttribute(const String& name) const$/;"	f	language:C++	class:WebCore::Element
+hasAttribute	/home/zhaopan/fromchang/Element.h	/^    bool hasAttribute(const QualifiedName&) const;$/;"	p	language:C++	class:WebCore::Element
+hasAttribute	/home/zhaopan/fromchang/Element.h	/^    bool hasAttribute(const String& name) const;$/;"	p	language:C++	class:WebCore::Element
+hasAttributeNS	/home/zhaopan/fromchang/Element.cpp	/^bool Element::hasAttributeNS(const String& namespaceURI, const String& localName) const$/;"	f	language:C++	class:WebCore::Element
+hasAttributeNS	/home/zhaopan/fromchang/Element.h	/^    bool hasAttributeNS(const String& namespaceURI, const String& localName) const;$/;"	p	language:C++	class:WebCore::Element
+hasAttributes	/home/zhaopan/fromchang/Element.cpp	/^bool Element::hasAttributes() const$/;"	f	language:C++	class:WebCore::Element
+hasAttributes	/home/zhaopan/fromchang/Element.h	/^    bool hasAttributes() const;$/;"	p	language:C++	class:WebCore::Element
+hasAttributes	/home/zhaopan/fromchang/Element.h	/^inline bool Node::hasAttributes() const$/;"	f	language:C++	class:WebCore::Node
+hasLocalName	/home/zhaopan/fromchang/Element.h	/^    bool hasLocalName(const AtomicString& other) const { return m_tagName.localName() == other; }$/;"	f	language:C++	class:WebCore::Element
+hasLocalName	/home/zhaopan/fromchang/Element.h	/^    bool hasLocalName(const QualifiedName& other) const { return m_tagName.localName() == other.localName(); }$/;"	f	language:C++	class:WebCore::Element
+hasLocalName	/home/zhaopan/fromchang/Element.h	/^inline bool Node::hasLocalName(const AtomicString& name) const$/;"	f	language:C++	class:WebCore::Node
+hasTagName	/home/zhaopan/fromchang/Element.h	/^    bool hasTagName(const QualifiedName& tagName) const { return m_tagName.matches(tagName); }$/;"	f	language:C++	class:WebCore::Element
+hasTagName	/home/zhaopan/fromchang/Element.h	/^inline bool Node::hasTagName(const QualifiedName& name) const$/;"	f	language:C++	class:WebCore::Node
+HEADERS	/home/zhaopan/test/test.py	/^HEADERS = {$/;"	v	language:Python
+HEADERS	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  HEADERS = {$/;"	v	language:Python	class:SimpleCrawler
+hook_charset	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^  def hook_charset(self, attrs):$/;"	m	language:Python	class:HTMLParser3
+howMany	/home/zhaopan/test/class.py	/^    def howMany(self):$/;"	m	language:Python	class:Person
+hs	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^            hs = HTTPS()$/;"	v	language:Python	class:test.HTTP11
+HTMLDocumentBuilder	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^class HTMLDocumentBuilder(HTMLHandler):$/;"	c	language:Python
+HTMLElement	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^class HTMLElement:$/;"	c	language:Python
+HTMLForm	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^class HTMLForm:$/;"	c	language:Python
+HTMLHandler	/home/zhaopan/webstemmer-dist-0.7.1/tools/html2txt.py	/^from webstemmer.htmlparser3 import HTMLParser3, HTMLHandler$/;"	i	language:Python
+HTMLHandler	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^from webstemmer.htmlparser3 import HTMLParser3, HTMLHandler$/;"	i	language:Python
+HTMLHandler	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^class HTMLHandler:$/;"	c	language:Python
+HTMLHandler	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^from htmlparser3 import HTMLParser3, HTMLHandler$/;"	i	language:Python
+HTMLHandler	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/tools/html2txt.py	/^from webstemmer.htmlparser3 import HTMLParser3, HTMLHandler$/;"	i	language:Python
+HTMLLinkFinder	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from webstemmer.textcrawler import HTMLLinkFinder, wash_url$/;"	i	language:Python
+HTMLLinkFinder	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^class HTMLLinkFinder(HTMLHandler):$/;"	c	language:Python
+HTMLLinkFinder	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from webstemmer.textcrawler import HTMLLinkFinder, wash_url$/;"	i	language:Python
+HTMLPage	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^class HTMLPage:$/;"	c	language:Python
+HTMLPage	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^class HTMLPage:$/;"	c	language:Python
+HTMLParser3	/home/zhaopan/webstemmer-dist-0.7.1/tools/html2txt.py	/^from webstemmer.htmlparser3 import HTMLParser3, HTMLHandler$/;"	i	language:Python
+HTMLParser3	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from webstemmer.htmlparser3 import HTMLParser3$/;"	i	language:Python
+HTMLParser3	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^from webstemmer.htmlparser3 import HTMLParser3, HTMLHandler$/;"	i	language:Python
+HTMLParser3	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^class HTMLParser3(SGMLParser3):$/;"	c	language:Python
+HTMLParser3	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^from htmlparser3 import HTMLParser3, HTMLHandler$/;"	i	language:Python
+HTMLParser3	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/tools/html2txt.py	/^from webstemmer.htmlparser3 import HTMLParser3, HTMLHandler$/;"	i	language:Python
+HTMLParser3	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from webstemmer.htmlparser3 import HTMLParser3$/;"	i	language:Python
+HTMLRootElement	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^class HTMLRootElement(HTMLElement):$/;"	c	language:Python
+HTMLTextHandler	/home/zhaopan/webstemmer-dist-0.7.1/tools/html2txt.py	/^class HTMLTextHandler(HTMLHandler):$/;"	c	language:Python
+HTMLTextHandler	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/tools/html2txt.py	/^class HTMLTextHandler(HTMLHandler):$/;"	c	language:Python
+HTTP	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^class HTTP:$/;"	c	language:Python
+HTTP11	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    class HTTP11(HTTP):$/;"	c	language:Python	function:test
+HTTPConnection	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^class HTTPConnection:$/;"	c	language:Python
+HTTPConnection	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^from httplib import HTTPConnection, BadStatusLine$/;"	i	language:Python
+HTTPException	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^class HTTPException(Exception):$/;"	c	language:Python
+HTTPMessage	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^class HTTPMessage(mimetools.Message):$/;"	c	language:Python
+HTTPResponse	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^class HTTPResponse:$/;"	c	language:Python
+HTTPS	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    class HTTPS(HTTP):$/;"	c	language:Python
+HTTPSConnection	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^class HTTPSConnection(HTTPConnection):$/;"	c	language:Python
+HTTPS_PORT	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^HTTPS_PORT = 443$/;"	v	language:Python
+HTTP_PORT	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^HTTP_PORT = 80$/;"	v	language:Python
+HTTP_VERSION_NOT_SUPPORTED	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^HTTP_VERSION_NOT_SUPPORTED = 505$/;"	v	language:Python
+identify_layout	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^  def identify_layout(self, tree, pat_threshold, strict=True):$/;"	m	language:Python	class:LayoutPatternSet
+idForStyleResolution	/home/zhaopan/fromchang/Element.h	/^    const AtomicString& idForStyleResolution() const;$/;"	p	language:C++	class:WebCore::Element
+idForStyleResolution	/home/zhaopan/fromchang/Element.h	/^inline const AtomicString& Element::idForStyleResolution() const$/;"	f	language:C++	class:WebCore::Element
+IGNORED_TAGS	/home/zhaopan/webstemmer-dist-0.7.1/tools/html2txt.py	/^  IGNORED_TAGS = dict.fromkeys($/;"	v	language:Python	class:HTMLTextHandler
+IGNORED_TAGS	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/tools/html2txt.py	/^  IGNORED_TAGS = dict.fromkeys($/;"	v	language:Python	class:HTMLTextHandler
+IGNORE_TAGS	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^  IGNORE_TAGS = dict.fromkeys('comment style script option'.split(' '))$/;"	v	language:Python	class:Chunker
+imageSourceAttributeName	/home/zhaopan/fromchang/Element.cpp	/^const QualifiedName& Element::imageSourceAttributeName() const$/;"	f	language:C++	class:WebCore::Element
+imageSourceAttributeName	/home/zhaopan/fromchang/Element.h	/^    virtual const QualifiedName& imageSourceAttributeName() const;$/;"	p	language:C++	class:WebCore::Element
+ImproperConnectionState	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^class ImproperConnectionState(HTTPException):$/;"	c	language:Python
+IM_USED	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^IM_USED = 226$/;"	v	language:Python
+includedir	/home/zhaopan/zlib-1.2.3/Makefile	/^includedir =${prefix}\/include$/;"	m	language:Make
+IncompleteRead	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^class IncompleteRead(HTTPException):$/;"	c	language:Python
+incref	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def incref(self):$/;"	m	language:Python	class:SharedSocket
+inject_url	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def inject_url(self, url):$/;"	m	language:Python	class:PageFeeder
+inject_url	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  def inject_url(self, url):$/;"	m	language:Python	class:SimpleCrawler
+inject_url	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def inject_url(self, url):$/;"	m	language:Python	class:PageFeeder
+INLINE_IMMED_TAGS	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^     CDATA_TAGS, INLINE_IMMED_TAGS, FORM_FIELD_TAGS, NON_NESTED_TAGS, NON_DISPLAYED_TAGS, BREAK_LINE_TAGS$/;"	i	language:Python
+INLINE_IMMED_TAGS	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^from webstemmer.htmlutils import getdecoder, BLOCK_TAGS, CDATA_TAGS, INLINE_IMMED_TAGS, NON_NESTED_TAGS, VALID_TAGS$/;"	i	language:Python
+innerText	/home/zhaopan/fromchang/Element.cpp	/^String Element::innerText()$/;"	f	language:C++	class:WebCore::Element
+innerText	/home/zhaopan/fromchang/Element.h	/^    String innerText();$/;"	p	language:C++	class:WebCore::Element
+InsertAsFirstChild	/home/zhaopan/NuDom/DOMNode.cc	/^    DomNode * InsertAsFirstChild(DOMNode * parent_node, DOMNode * new_child) {$/;"	f	language:C++	class:DOMNode
+insertBefore	/home/zhaopan/fromchang/Node.cpp	/^bool Node::insertBefore(PassRefPtr<Node> newChild, Node* refChild, ExceptionCode& ec, bool shouldLazyAttach)$/;"	f	language:C++	class:WebCore::Node
+InsertBefore	/home/zhaopan/NuDom/DOMNode.cc	/^    DomNode * InsertBefore(DomNode * new_node, DomNode * ref_child) {$/;"	f	language:C++	class:DOMNode
+instancesForSVGElement	/home/zhaopan/fromchang/Node.cpp	/^static inline HashSet<SVGElementInstance*> instancesForSVGElement(Node* node)$/;"	f	language:C++	namespace:WebCore
+INSUFFICIENT_STORAGE	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^INSUFFICIENT_STORAGE = 507$/;"	v	language:Python
+INTERNAL_SERVER_ERROR	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^INTERNAL_SERVER_ERROR = 500$/;"	v	language:Python
+invalidateCaches	/home/zhaopan/fromchang/Node.cpp	/^void NodeListsNodeData::invalidateCaches()$/;"	f	language:C++	class:WebCore::NodeListsNodeData
+invalidateMicrodataItemListCaches	/home/zhaopan/fromchang/Node.cpp	/^void NodeListsNodeData::invalidateMicrodataItemListCaches()$/;"	f	language:C++	class:WebCore::NodeListsNodeData
+InvalidURL	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^class InvalidURL(HTTPException):$/;"	c	language:Python
+isAtomicNode	/home/zhaopan/fromchang/Node.cpp	/^bool isAtomicNode(const Node *node)$/;"	f	language:C++	namespace:WebCore
+isAttributeToRemove	/home/zhaopan/fromchang/Element.cpp	/^static bool isAttributeToRemove(const QualifiedName& name, const AtomicString& value)$/;"	f	language:C++	namespace:WebCore
+isatty	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^    def isatty(self):$/;"	m	language:Python	class:GzipFile
+isChildTypeAllowed	/home/zhaopan/fromchang/Node.cpp	/^static bool isChildTypeAllowed(Node* newParent, Node* child)$/;"	f	language:C++	namespace:WebCore
+isclosed	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def isclosed(self):$/;"	m	language:Python	class:HTTPResponse
+isDefaultButtonForForm	/home/zhaopan/fromchang/Element.h	/^    virtual bool isDefaultButtonForForm() const { return false; }$/;"	f	language:C++	class:WebCore::Element
+isDefaultNamespace	/home/zhaopan/fromchang/Node.cpp	/^bool Node::isDefaultNamespace(const AtomicString& namespaceURIMaybeEmpty) const$/;"	f	language:C++	class:WebCore::Node
+isDescendantOf	/home/zhaopan/fromchang/Node.cpp	/^bool Node::isDescendantOf(const Node *other) const$/;"	f	language:C++	class:WebCore::Node
+isEditableToAccessibility	/home/zhaopan/fromchang/Node.cpp	/^bool Node::isEditableToAccessibility(EditableLevel editableLevel) const$/;"	f	language:C++	class:WebCore::Node
+isEmpty	/home/zhaopan/fromchang/Node.cpp	/^bool NodeListsNodeData::isEmpty() const$/;"	f	language:C++	class:WebCore::NodeListsNodeData
+isEnabledFormControl	/home/zhaopan/fromchang/Element.h	/^    virtual bool isEnabledFormControl() const { return true; }$/;"	f	language:C++	class:WebCore::Element
+isEqualNode	/home/zhaopan/fromchang/Node.cpp	/^bool Node::isEqualNode(Node* other) const$/;"	f	language:C++	class:WebCore::Node
+isEventHandlerAttribute	/home/zhaopan/fromchang/Element.cpp	/^static bool isEventHandlerAttribute(const QualifiedName& name)$/;"	f	language:C++	namespace:WebCore
+isFinishedParsingChildren	/home/zhaopan/fromchang/Element.h	/^    bool isFinishedParsingChildren() const { return isParsingChildrenFinished(); }$/;"	f	language:C++	class:WebCore::Element
+isFormControlElement	/home/zhaopan/fromchang/Element.h	/^    virtual bool isFormControlElement() const { return false; }$/;"	f	language:C++	class:WebCore::Element
+isFrameElementBase	/home/zhaopan/fromchang/Element.h	/^    virtual bool isFrameElementBase() const { return false; }$/;"	f	language:C++	class:WebCore::Element
+isIdAttributeName	/home/zhaopan/fromchang/Element.h	/^    bool isIdAttributeName(const QualifiedName&) const;$/;"	p	language:C++	class:WebCore::Element
+isIdAttributeName	/home/zhaopan/fromchang/Element.h	/^inline bool Element::isIdAttributeName(const QualifiedName& attributeName) const$/;"	f	language:C++	class:WebCore::Element
+isInputFieldSpeechButtonElement	/home/zhaopan/fromchang/Element.h	/^    virtual bool isInputFieldSpeechButtonElement() const { return false; }$/;"	f	language:C++	class:WebCore::Element
+isInRange	/home/zhaopan/fromchang/Element.h	/^    virtual bool isInRange() const { return false; }$/;"	f	language:C++	class:WebCore::Element
+isInShadowTree	/home/zhaopan/fromchang/Node.cpp	/^bool Node::isInShadowTree()$/;"	f	language:C++	class:WebCore::Node
+isMathMLElement	/home/zhaopan/fromchang/Element.h	/^    static bool isMathMLElement() { return false; }$/;"	f	language:C++	class:WebCore::Element
+isMathMLElement	/home/zhaopan/fromchang/Element.h	/^    virtual bool isMathMLElement() const { return false; }$/;"	f	language:C++	class:WebCore::Element
+isMediaElement	/home/zhaopan/fromchang/Element.h	/^    virtual bool isMediaElement() const { return false; }$/;"	f	language:C++	class:WebCore::Element
+isOptionalFormControl	/home/zhaopan/fromchang/Element.h	/^    virtual bool isOptionalFormControl() const { return false; }$/;"	f	language:C++	class:WebCore::Element
+isOutOfRange	/home/zhaopan/fromchang/Element.h	/^    virtual bool isOutOfRange() const { return false; }$/;"	f	language:C++	class:WebCore::Element
+isReadOnlyFormControl	/home/zhaopan/fromchang/Element.h	/^    virtual bool isReadOnlyFormControl() const { return false; }$/;"	f	language:C++	class:WebCore::Element
+isRequiredFormControl	/home/zhaopan/fromchang/Element.h	/^    virtual bool isRequiredFormControl() const { return false; }$/;"	f	language:C++	class:WebCore::Element
+isSpellCheckingEnabled	/home/zhaopan/fromchang/Element.cpp	/^bool Element::isSpellCheckingEnabled() const$/;"	f	language:C++	class:WebCore::Element
+isSpellCheckingEnabled	/home/zhaopan/fromchang/Element.h	/^    virtual bool isSpellCheckingEnabled() const;$/;"	p	language:C++	class:WebCore::Element
+isSpinButtonElement	/home/zhaopan/fromchang/Element.h	/^    virtual bool isSpinButtonElement() const { return false; }$/;"	f	language:C++	class:WebCore::Element
+isSupported	/home/zhaopan/fromchang/Node.cpp	/^bool Node::isSupported(const String& feature, const String& version)$/;"	f	language:C++	class:WebCore::Node
+isTextFormControl	/home/zhaopan/fromchang/Element.h	/^    virtual bool isTextFormControl() const { return false; }$/;"	f	language:C++	class:WebCore::Element
+isURLAttribute	/home/zhaopan/fromchang/Element.cpp	/^bool Element::isURLAttribute(Attribute*) const$/;"	f	language:C++	class:WebCore::Element
+isURLAttribute	/home/zhaopan/fromchang/Element.h	/^    virtual bool isURLAttribute(Attribute*) const;$/;"	p	language:C++	class:WebCore::Element
+itemProp	/home/zhaopan/fromchang/Node.cpp	/^DOMSettableTokenList* Node::itemProp()$/;"	f	language:C++	class:WebCore::Node
+itemRef	/home/zhaopan/fromchang/Node.cpp	/^DOMSettableTokenList* Node::itemRef()$/;"	f	language:C++	class:WebCore::Node
+itemType	/home/zhaopan/fromchang/Node.cpp	/^DOMSettableTokenList* Node::itemType()$/;"	f	language:C++	class:WebCore::Node
+jdjjdj	/home/zhaopan/test/main.c	/^char ** jdjjdj()$/;"	f	language:C
+kalam	/home/zhaopan/test/class.py	/^kalam = Person('Abdul Kalam')$/;"	v	language:Python
+KEY_ATTRS	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from webstemmer.layoutils import sigchars, get_textblocks, retrieve_blocks, WEBSTEMMER_VERSION, KEY_ATTRS$/;"	i	language:Python
+KEY_ATTRS	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^from webstemmer.layoutils import sigchars, get_textblocks, retrieve_blocks, WEBSTEMMER_VERSION, KEY_ATTRS$/;"	i	language:Python
+KEY_ATTRS	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^KEY_ATTRS = dict.fromkeys('id class align valign rowspan colspan'.split(' '))$/;"	v	language:Python
+KEY_ATTRS	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from webstemmer.layoutils import sigchars, get_textblocks, retrieve_blocks, WEBSTEMMER_VERSION, KEY_ATTRS$/;"	i	language:Python
+last	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^def last(seq, x=None):$/;"	f	language:Python
+lastDescendant	/home/zhaopan/fromchang/Node.cpp	/^Node *Node::lastDescendant() const$/;"	f	language:C++	class:WebCore::Node
+lastElementChild	/home/zhaopan/fromchang/Element.cpp	/^Element* Element::lastElementChild() const$/;"	f	language:C++	class:WebCore::Element
+lastElementChild	/home/zhaopan/fromchang/Element.h	/^    Element* lastElementChild() const;$/;"	p	language:C++	class:WebCore::Element
+LayoutAnalyzer	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^class LayoutAnalyzer:$/;"	c	language:Python
+LayoutAnalyzer	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^class LayoutAnalyzer:$/;"	c	language:Python
+LayoutCluster	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^class LayoutCluster:$/;"	c	language:Python
+LayoutCluster	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^class LayoutCluster:$/;"	c	language:Python
+LayoutPattern	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^class LayoutPattern:$/;"	c	language:Python
+LayoutPatternSet	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^class LayoutPatternSet:$/;"	c	language:Python
+LayoutSection	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^class LayoutSection:$/;"	c	language:Python
+LayoutSectionCluster	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^class LayoutSectionCluster:$/;"	c	language:Python
+LayoutSectionCluster	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^class LayoutSectionCluster:$/;"	c	language:Python
+lazyAttach	/home/zhaopan/fromchang/Node.cpp	/^void Node::lazyAttach(ShouldSetAttached shouldSetAttached)$/;"	f	language:C++	class:WebCore::Node
+LDFLAGS	/home/zhaopan/zlib-1.2.3/Makefile	/^LDFLAGS=-L. libz.a$/;"	m	language:Make
+LDSHARED	/home/zhaopan/zlib-1.2.3/Makefile	/^LDSHARED=gcc$/;"	m	language:Make
+LENGTH_REQUIRED	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^LENGTH_REQUIRED = 411$/;"	v	language:Python
+libdir	/home/zhaopan/zlib-1.2.3/Makefile	/^libdir =${exec_prefix}\/lib$/;"	m	language:Make
+LIBS	/home/zhaopan/zlib-1.2.3/Makefile	/^LIBS=libz.a$/;"	m	language:Make
+license	/home/zhaopan/webstemmer-dist-0.7.1/setup.py	/^      license='MIT\/X',$/;"	v	language:Python
+LineAndFileWrapper	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^class LineAndFileWrapper:$/;"	c	language:Python
+listone	/home/zhaopan/test/list.py	/^listone = [2, 3, 5]$/;"	v	language:Python
+listtwo	/home/zhaopan/test/list.py	/^listtwo = [2 * i for i in listone if i > 2]$/;"	v	language:Python
+liveNodeSet	/home/zhaopan/fromchang/Node.cpp	/^static HashSet<Node*> liveNodeSet;$/;"	m	language:C++	namespace:WebCore	file:
+localName	/home/zhaopan/fromchang/Element.h	/^    const AtomicString& localName() const { return m_tagName.localName(); }$/;"	f	language:C++	class:WebCore::Element
+LOCKED	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^LOCKED = 423$/;"	v	language:Python
+log	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from math import log$/;"	i	language:Python
+log	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from math import log$/;"	i	language:Python
+long_description	/home/zhaopan/webstemmer-dist-0.7.1/setup.py	/^      long_description='Webstemmer is a web crawler and HTML layout analyzer that '$/;"	v	language:Python
+lookupNamespacePrefix	/home/zhaopan/fromchang/Node.cpp	/^String Node::lookupNamespacePrefix(const AtomicString &_namespaceURI, const Element *originalElement) const$/;"	f	language:C++	class:WebCore::Node
+lookupNamespaceURI	/home/zhaopan/fromchang/Node.cpp	/^String Node::lookupNamespaceURI(const String &prefix) const$/;"	f	language:C++	class:WebCore::Node
+lookupPrefix	/home/zhaopan/fromchang/Node.cpp	/^String Node::lookupPrefix(const AtomicString &namespaceURI) const$/;"	f	language:C++	class:WebCore::Node
+lowerbound	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^lowerbound = max$/;"	v	language:Python
+lowerbound	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^lowerbound = max$/;"	v	language:Python
+LOWU32	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^def LOWU32(i):$/;"	f	language:Python
+main	/home/zhaopan/test/1.c	/^int main(int argc, const char *argv[])$/;"	f	language:C
+main	/home/zhaopan/test/biantai.c	/^int main(int argc, const char *argv[])$/;"	f	language:C
+main	/home/zhaopan/test/const.cpp	/^int main(int argc, const char *argv[])$/;"	f	language:C++
+main	/home/zhaopan/test/entirety.c	/^int main(int argc, const char *argv[])$/;"	f	language:C
+main	/home/zhaopan/test/exit.cpp	/^int main(int argc, const char *argv[])$/;"	f	language:C++
+main	/home/zhaopan/test/hello.c	/^int main(int argc, const char *argv[])$/;"	f	language:C
+main	/home/zhaopan/test/hh.c	/^int main (int argc, char *argv[]) {$/;"	f	language:C
+main	/home/zhaopan/test/main.c	/^int main(int argc, const char *argv[])$/;"	f	language:C
+main	/home/zhaopan/test/main.c	/^int main(int argc, const char *argv[])$/;"	f	language:C
+main	/home/zhaopan/test/name.py	/^def main():$/;"	f	language:Python
+main	/home/zhaopan/test/stru.c	/^int main(int argc, const char *argv[])$/;"	f	language:C
+main	/home/zhaopan/test/td.c	/^int main(int argc, const char *argv[])$/;"	f	language:C
+main	/home/zhaopan/test/template.cpp	/^int main(int argc, const char *argv[])$/;"	f	language:C++
+main	/home/zhaopan/test/test.c	/^int main(int argc, const char *argv[])$/;"	f	language:C
+main	/home/zhaopan/test/test.cpp	/^int main(int argc, const char *argv[])$/;"	f	language:C++
+main	/home/zhaopan/test/throw.cpp	/^int main(int argc, const char *argv[])$/;"	f	language:C++
+main	/home/zhaopan/test/virtual.cpp	/^int main(int argc, const char *argv[])$/;"	f	language:C++
+main	/home/zhaopan/webstemmer-dist-0.7.1/tools/perf.py	/^def main(args):$/;"	f	language:Python
+main	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^def main():$/;"	f	language:Python
+main	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^def main():$/;"	f	language:Python
+main	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^def main(args):$/;"	f	language:Python
+main	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^def main():$/;"	f	language:Python
+main	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/tools/perf.py	/^def main(args):$/;"	f	language:Python
+main	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^def main():$/;"	f	language:Python
+makefile	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def makefile(self, mode, bufsize=None):$/;"	m	language:Python	class:FakeSocket
+make_repeater	/home/zhaopan/test/lambda.py	/^def make_repeater(n):$/;"	f	language:Python
+man3dir	/home/zhaopan/zlib-1.2.3/Makefile	/^man3dir = ${mandir}\/man3$/;"	m	language:Make
+mandir	/home/zhaopan/zlib-1.2.3/Makefile	/^mandir =${prefix}\/share\/man$/;"	m	language:Make
+markAncestorsWithChildNeedsStyleRecalc	/home/zhaopan/fromchang/Node.cpp	/^inline void Node::markAncestorsWithChildNeedsStyleRecalc()$/;"	f	language:C++	class:WebCore::Node
+match_blocks	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^  def match_blocks(self, blocks0, strict=True):$/;"	m	language:Python	class:LayoutPattern
+MAX_PAGE_LEN	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^MAX_PAGE_LEN = 1000000 # 1MB max$/;"	v	language:Python
+md5	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^    import md5, struct$/;"	i	language:Python
+mediaVolumeDidChange	/home/zhaopan/fromchang/Element.h	/^    virtual void mediaVolumeDidChange() { }$/;"	f	language:C++	class:WebCore::Element
+METHOD_NOT_ALLOWED	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^METHOD_NOT_ALLOWED = 405$/;"	v	language:Python
+mimetools	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^import mimetools$/;"	i	language:Python
+MIN_CHARS	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^  MIN_CHARS = 5$/;"	v	language:Python	class:Chunker
+MOVED_PERMANENTLY	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^MOVED_PERMANENTLY = 301$/;"	v	language:Python
+MozillaCookieJar	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^from cookielib import MozillaCookieJar$/;"	i	language:Python
+MULTIPLE_CHOICES	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^MULTIPLE_CHOICES = 300$/;"	v	language:Python
+MULTI_STATUS	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^MULTI_STATUS = 207$/;"	v	language:Python
+mutationObserverRegistry	/home/zhaopan/fromchang/Node.cpp	/^Vector<OwnPtr<MutationObserverRegistration> >* Node::mutationObserverRegistry()$/;"	f	language:C++	class:WebCore::Node
+myfileobj	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^    myfileobj = None$/;"	v	language:Python	class:GzipFile
+m_attributeMap	/home/zhaopan/fromchang/Element.h	/^    mutable OwnPtr<NamedNodeMap> m_attributeMap;$/;"	m	language:C++	class:WebCore::Element
+m_tagName	/home/zhaopan/fromchang/Element.h	/^    QualifiedName m_tagName;$/;"	m	language:C++	class:WebCore::Element
+name	/home/zhaopan/test/append.py	/^import name$/;"	i	language:Python
+name	/home/zhaopan/test/stru.c	/^typedef struct name {$/;"	s	language:C	file:
+NAMEd	/home/zhaopan/test/stru.c	/^} NAMEd;$/;"	t	language:C	typeref:struct:name	file:
+namespaceURI	/home/zhaopan/fromchang/Element.h	/^    const AtomicString& namespaceURI() const { return m_tagName.namespaceURI(); }$/;"	f	language:C++	class:WebCore::Element
+NEWLINE_TAGS	/home/zhaopan/webstemmer-dist-0.7.1/tools/html2txt.py	/^  NEWLINE_TAGS = dict.fromkeys($/;"	v	language:Python	class:HTMLTextHandler
+NEWLINE_TAGS	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/tools/html2txt.py	/^  NEWLINE_TAGS = dict.fromkeys($/;"	v	language:Python	class:HTMLTextHandler
+next	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^    def next(self):$/;"	m	language:Python	class:GzipFile
+next	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def next(self):$/;"	m	language:Python	class:SSLFile
+nextElementSibling	/home/zhaopan/fromchang/Element.cpp	/^Element* Element::nextElementSibling() const$/;"	f	language:C++	class:WebCore::Element
+nextElementSibling	/home/zhaopan/fromchang/Element.h	/^    Element* nextElementSibling() const;$/;"	p	language:C++	class:WebCore::Element
+nextLeafNode	/home/zhaopan/fromchang/Node.cpp	/^Node *Node::nextLeafNode() const$/;"	f	language:C++	class:WebCore::Node
+nextNodeConsideringAtomicNodes	/home/zhaopan/fromchang/Node.cpp	/^Node *Node::nextNodeConsideringAtomicNodes() const$/;"	f	language:C++	class:WebCore::Node
+nodeIndex	/home/zhaopan/fromchang/Node.cpp	/^unsigned Node::nodeIndex() const$/;"	f	language:C++	class:WebCore::Node
+nodeName	/home/zhaopan/fromchang/Element.cpp	/^String Element::nodeName() const$/;"	f	language:C++	class:WebCore::Element
+nodeName	/home/zhaopan/fromchang/Element.h	/^    virtual String nodeName() const;$/;"	p	language:C++	class:WebCore::Element
+nodeNamePreservingCase	/home/zhaopan/fromchang/Element.cpp	/^String Element::nodeNamePreservingCase() const$/;"	f	language:C++	class:WebCore::Element
+nodeNamePreservingCase	/home/zhaopan/fromchang/Element.h	/^    String nodeNamePreservingCase() const;$/;"	p	language:C++	class:WebCore::Element
+nodeType	/home/zhaopan/fromchang/Element.cpp	/^Node::NodeType Element::nodeType() const$/;"	f	language:C++	class:WebCore::Element
+nodeType	/home/zhaopan/fromchang/Element.h	/^    virtual NodeType nodeType() const;$/;"	p	language:C++	class:WebCore::Element
+nodeValue	/home/zhaopan/fromchang/Node.cpp	/^String Node::nodeValue() const$/;"	f	language:C++	class:WebCore::Node
+nonBoundaryShadowTreeRootNode	/home/zhaopan/fromchang/Node.cpp	/^Node* Node::nonBoundaryShadowTreeRootNode()$/;"	f	language:C++	class:WebCore::Node
+nonShadowBoundaryParentNode	/home/zhaopan/fromchang/Node.cpp	/^ContainerNode* Node::nonShadowBoundaryParentNode() const$/;"	f	language:C++	class:WebCore::Node
+NON_AUTHORITATIVE_INFORMATION	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^NON_AUTHORITATIVE_INFORMATION = 203$/;"	v	language:Python
+NON_DISPLAYED_TAGS	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^     CDATA_TAGS, INLINE_IMMED_TAGS, FORM_FIELD_TAGS, NON_NESTED_TAGS, NON_DISPLAYED_TAGS, BREAK_LINE_TAGS$/;"	i	language:Python
+NON_NESTED_TAGS	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^     CDATA_TAGS, INLINE_IMMED_TAGS, FORM_FIELD_TAGS, NON_NESTED_TAGS, NON_DISPLAYED_TAGS, BREAK_LINE_TAGS$/;"	i	language:Python
+NON_NESTED_TAGS	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^from webstemmer.htmlutils import getdecoder, BLOCK_TAGS, CDATA_TAGS, INLINE_IMMED_TAGS, NON_NESTED_TAGS, VALID_TAGS$/;"	i	language:Python
+normalize	/home/zhaopan/fromchang/Node.cpp	/^void Node::normalize()$/;"	f	language:C++	class:WebCore::Node
+normalizeAttributes	/home/zhaopan/fromchang/Element.cpp	/^void Element::normalizeAttributes()$/;"	f	language:C++	class:WebCore::Element
+normalizeAttributes	/home/zhaopan/fromchang/Element.h	/^    void normalizeAttributes();$/;"	p	language:C++	class:WebCore::Element
+normalize_url	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def normalize_url(self, url):$/;"	m	language:Python	class:HTMLRootElement
+NotConnected	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^class NotConnected(HTTPException):$/;"	c	language:Python
+notifyMutationObserversNodeWillDetach	/home/zhaopan/fromchang/Node.cpp	/^void Node::notifyMutationObserversNodeWillDetach()$/;"	f	language:C++	class:WebCore::Node
+NOT_ACCEPTABLE	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^NOT_ACCEPTABLE = 406$/;"	v	language:Python
+NOT_EXTENDED	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^NOT_EXTENDED = 510$/;"	v	language:Python
+NOT_FOUND	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^NOT_FOUND = 404$/;"	v	language:Python
+NOT_IMPLEMENTED	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^NOT_IMPLEMENTED = 501$/;"	v	language:Python
+NOT_MODIFIED	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^NOT_MODIFIED = 304$/;"	v	language:Python
+NO_CONTENT	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^NO_CONTENT = 204$/;"	v	language:Python
+NullDumper	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^from webstemmer.zipdb import ACLDB, ZipDumper, NullDumper$/;"	i	language:Python
+OBJA	/home/zhaopan/zlib-1.2.3/Makefile	/^OBJA =$/;"	m	language:Make
+OBJS	/home/zhaopan/zlib-1.2.3/Makefile	/^OBJS = adler32.o compress.o crc32.o gzio.o uncompr.o deflate.o trees.o \\$/;"	m	language:Make
+offsetHeight	/home/zhaopan/fromchang/Element.h	/^    int offsetHeight();$/;"	p	language:C++	class:WebCore::Element
+offsetLeft	/home/zhaopan/fromchang/Element.h	/^    int offsetLeft();$/;"	p	language:C++	class:WebCore::Element
+offsetParent	/home/zhaopan/fromchang/Element.h	/^    Element* offsetParent();$/;"	p	language:C++	class:WebCore::Element
+offsetTop	/home/zhaopan/fromchang/Element.h	/^    int offsetTop();$/;"	p	language:C++	class:WebCore::Element
+offsetWidth	/home/zhaopan/fromchang/Element.h	/^    int offsetWidth();$/;"	p	language:C++	class:WebCore::Element
+OK	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^OK = 200$/;"	v	language:Python
+oldDocumentDidMoveToNewDocumentWasCalledWith	/home/zhaopan/fromchang/Node.cpp	/^static Document* oldDocumentDidMoveToNewDocumentWasCalledWith;$/;"	m	language:C++	namespace:WebCore	file:
+olditem	/home/zhaopan/test/using_list.py	/^    olditem = shoplist[0]$/;"	v	language:Python
+open	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^def open(filename, mode="rb", compresslevel=9):$/;"	f	language:Python
+optionalClassList	/home/zhaopan/fromchang/Element.cpp	/^DOMTokenList* Element::optionalClassList() const$/;"	f	language:C++	class:WebCore::Element
+optionalClassList	/home/zhaopan/fromchang/Element.h	/^    DOMTokenList* optionalClassList() const;$/;"	p	language:C++	class:WebCore::Element
+os	/home/zhaopan/test/my_list.py	/^import os$/;"	i	language:Python
+os	/home/zhaopan/webstemmer-dist-0.7.1/tools/perf.py	/^import sys, os$/;"	i	language:Python
+os	/home/zhaopan/webstemmer-dist-0.7.1/tools/urldbutils.py	/^import sys, time, struct, os$/;"	i	language:Python
+os	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/tools/perf.py	/^import sys, os$/;"	i	language:Python
+out	/home/zhaopan/webstemmer-dist-0.7.1/tools/html2txt.py	/^  class out:$/;"	c	language:Python
+out	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/tools/html2txt.py	/^  class out:$/;"	c	language:Python
+outerText	/home/zhaopan/fromchang/Element.cpp	/^String Element::outerText()$/;"	f	language:C++	class:WebCore::Element
+outerText	/home/zhaopan/fromchang/Element.h	/^    String outerText();$/;"	p	language:C++	class:WebCore::Element
+ownerDocument	/home/zhaopan/fromchang/Node.cpp	/^Document *Node::ownerDocument() const$/;"	f	language:C++	class:WebCore::Node
+PACKAGE	/home/zhaopan/webstemmer-dist-0.7.1/Makefile	/^PACKAGE=webstemmer$/;"	m	language:Make
+packages	/home/zhaopan/webstemmer-dist-0.7.1/setup.py	/^      packages=['webstemmer'],$/;"	v	language:Python
+PageFeeder	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^class PageFeeder:$/;"	c	language:Python
+PageFeeder	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^class PageFeeder:$/;"	c	language:Python
+parentElement	/home/zhaopan/fromchang/Element.h	/^inline Element* Node::parentElement() const$/;"	f	language:C++	class:WebCore::Node
+parentOrHostElement	/home/zhaopan/fromchang/Node.cpp	/^Element* Node::parentOrHostElement() const$/;"	f	language:C++	class:WebCore::Node
+parse	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from webstemmer.htmldom import parse$/;"	i	language:Python
+parse	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^from webstemmer.htmldom import parse$/;"	i	language:Python
+parse	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^def parse(x, base_href=None, charset=None, stylesheet=None):$/;"	f	language:Python
+parse	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from webstemmer.htmldom import parse$/;"	i	language:Python
+parse1	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  def parse1(self, fp, url, mimetype, charset, visited):$/;"	m	language:Python	class:SimpleCrawler
+parse1	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  def parse1(self, fp, url, mimetype, charset, visited):$/;"	m	language:Python	class:TextCrawler
+parsefile	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^  from htmldom import parsefile$/;"	i	language:Python
+parserSetAttributeMap	/home/zhaopan/fromchang/Element.cpp	/^void Element::parserSetAttributeMap(PassOwnPtr<NamedNodeMap> list, FragmentScriptingPermission scriptingPermission)$/;"	f	language:C++	class:WebCore::Element
+parserSetAttributeMap	/home/zhaopan/fromchang/Element.h	/^    void parserSetAttributeMap(PassOwnPtr<NamedNodeMap>, FragmentScriptingPermission);$/;"	p	language:C++	class:WebCore::Element
+parse_inline	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^from webstemmer.style import Style, StyleSheet, ActiveStyleSheet, parse_inline$/;"	i	language:Python
+PARTIAL_CONTENT	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^PARTIAL_CONTENT = 206$/;"	v	language:Python
+PATH_COMPS	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^  PATH_COMPS = 3$/;"	v	language:Python	class:Chunker
+path_diff	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^def path_diff(path1, path2):$/;"	f	language:Python
+path_diff	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^def path_diff(path1, path2):$/;"	f	language:Python
+PAYMENT_REQUIRED	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^PAYMENT_REQUIRED = 402$/;"	v	language:Python
+percent	/home/zhaopan/webstemmer-dist-0.7.1/tools/perf.py	/^  def percent(x,y):$/;"	f	language:Python	function:main
+percent	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/tools/perf.py	/^  def percent(x,y):$/;"	f	language:Python	function:main
+Person	/home/zhaopan/test/class.py	/^class Person:$/;"	c	language:Python
+population	/home/zhaopan/test/class.py	/^    population = 0$/;"	v	language:Python	class:Person
+powsersun	/home/zhaopan/test/chang.py	/^def powsersun(power, *args):$/;"	f	language:Python
+PRECONDITION_FAILED	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^PRECONDITION_FAILED = 412$/;"	v	language:Python
+prefix	/home/zhaopan/fromchang/Element.h	/^    const AtomicString& prefix() const { return m_tagName.prefix(); }$/;"	f	language:C++	class:WebCore::Element
+prefix	/home/zhaopan/zlib-1.2.3/Makefile	/^prefix =\/usr\/local$/;"	m	language:Make
+previousElementSibling	/home/zhaopan/fromchang/Element.cpp	/^Element* Element::previousElementSibling() const$/;"	f	language:C++	class:WebCore::Element
+previousElementSibling	/home/zhaopan/fromchang/Element.h	/^    Element* previousElementSibling() const;$/;"	p	language:C++	class:WebCore::Element
+previousLeafNode	/home/zhaopan/fromchang/Node.cpp	/^Node *Node::previousLeafNode() const$/;"	f	language:C++	class:WebCore::Node
+previousNodeConsideringAtomicNodes	/home/zhaopan/fromchang/Node.cpp	/^Node *Node::previousNodeConsideringAtomicNodes() const$/;"	f	language:C++	class:WebCore::Node
+print	/home/zhaopan/test/1.c	3;"	d	language:C	file:
+print	/home/zhaopan/test/const.cpp	/^    void print() const {$/;"	f	language:C++	class:A
+printMax	/home/zhaopan/test/doc.py	/^def printMax(x, y):$/;"	f	language:Python
+privateBrowsingStateDidChange	/home/zhaopan/fromchang/Element.h	/^    virtual void privateBrowsingStateDidChange() { }$/;"	f	language:C++	class:WebCore::Element
+PROCESSING	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^PROCESSING = 102$/;"	v	language:Python
+properties	/home/zhaopan/fromchang/Node.cpp	/^HTMLPropertiesCollection* Node::properties()$/;"	f	language:C++	class:WebCore::Node
+PROXY_AUTHENTICATION_REQUIRED	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^PROXY_AUTHENTICATION_REQUIRED = 407$/;"	v	language:Python
+ptr	/home/zhaopan/test/td.c	/^char *ptr(int a, int b) {$/;"	f	language:C
+putheader	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def putheader(self, header, *values):$/;"	m	language:Python	class:HTTP
+putheader	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def putheader(self, header, value):$/;"	m	language:Python	class:HTTPConnection
+putrequest	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def putrequest(self, method, url, skip_host=0, skip_accept_encoding=0):$/;"	m	language:Python	class:HTTPConnection
+PYTHON	/home/zhaopan/webstemmer-dist-0.7.1/Makefile	/^PYTHON=python$/;"	m	language:Make
+quotestr	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^     CDATA_TAGS, INLINE_IMMED_TAGS, FORM_FIELD_TAGS, NON_NESTED_TAGS, NON_DISPLAYED_TAGS, BREAK_LINE_TAGS$/;"	i	language:Python
+random	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^import sys, re, random$/;"	i	language:Python
+random	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^import sys, re, random$/;"	i	language:Python
+RANLIB	/home/zhaopan/zlib-1.2.3/Makefile	/^RANLIB=ranlib$/;"	m	language:Make
+rareData	/home/zhaopan/fromchang/Element.cpp	/^inline ElementRareData* Element::rareData() const$/;"	f	language:C++	class:WebCore::Element
+rareData	/home/zhaopan/fromchang/Element.h	/^    ElementRareData* rareData() const;$/;"	p	language:C++	class:WebCore::Element
+rareData	/home/zhaopan/fromchang/Node.cpp	/^NodeRareData* Node::rareData() const$/;"	f	language:C++	class:WebCore::Node
+re	/home/zhaopan/webstemmer-dist-0.7.1/tools/html2txt.py	/^import sys, re$/;"	i	language:Python
+re	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^import sys, re, random$/;"	i	language:Python
+re	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^import sys, re$/;"	i	language:Python
+re	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^import sys, re$/;"	i	language:Python
+re	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^import sys, re$/;"	i	language:Python
+re	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^import sys, re, time, socket$/;"	i	language:Python
+re	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/tools/html2txt.py	/^import sys, re$/;"	i	language:Python
+re	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^import sys, re, random$/;"	i	language:Python
+read	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^  def read(self, fp):$/;"	m	language:Python	class:LayoutPatternSet
+read	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^    def read(self, size=-1):$/;"	m	language:Python	class:GzipFile
+read	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def read(self, amt=None):$/;"	m	language:Python	class:HTTPResponse
+read	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def read(self, amt=None):$/;"	m	language:Python	class:LineAndFileWrapper
+read	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def read(self, size=None):$/;"	m	language:Python	class:SSLFile
+readheaders	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def readheaders(self):$/;"	m	language:Python	class:HTTPMessage
+readline	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^    def readline(self, size=-1):$/;"	m	language:Python	class:GzipFile
+readline	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def readline(self):$/;"	m	language:Python	class:LineAndFileWrapper
+readline	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def readline(self):$/;"	m	language:Python	class:SSLFile
+readlines	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^    def readlines(self, sizehint=0):$/;"	m	language:Python	class:GzipFile
+readlines	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def readlines(self, size=None):$/;"	m	language:Python	class:LineAndFileWrapper
+readlines	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def readlines(self, sizehint=0):$/;"	m	language:Python	class:SSLFile
+recalcStyle	/home/zhaopan/fromchang/Element.h	/^    void recalcStyle(StyleChange = NoChange);$/;"	p	language:C++	class:WebCore::Element
+recv	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def recv(self, len = 1024, flags = 0):$/;"	m	language:Python	class:FakeSocket
+refEventTarget	/home/zhaopan/fromchang/Node.cpp	/^void Node::refEventTarget()$/;"	f	language:C++	class:WebCore::Node
+RefTextDB	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^class RefTextDB:$/;"	c	language:Python
+registerDynamicSubtreeNodeList	/home/zhaopan/fromchang/Node.cpp	/^void Node::registerDynamicSubtreeNodeList(DynamicSubtreeNodeList* list)$/;"	f	language:C++	class:WebCore::Node
+registerMutationObserver	/home/zhaopan/fromchang/Node.cpp	/^MutationObserverRegistration* Node::registerMutationObserver(PassRefPtr<WebKitMutationObserver> observer)$/;"	f	language:C++	class:WebCore::Node
+registerTransientMutationObserver	/home/zhaopan/fromchang/Node.cpp	/^void Node::registerTransientMutationObserver(MutationObserverRegistration* registration)$/;"	f	language:C++	class:WebCore::Node
+remove	/home/zhaopan/fromchang/Node.cpp	/^void Node::remove(ExceptionCode& ec)$/;"	f	language:C++	class:WebCore::Node
+RemoveAll	/home/zhaopan/NuDom/DOMElement.cc	/^    void RemoveAll() {$/;"	f	language:C++	class:DOMElement
+removeAttribute	/home/zhaopan/fromchang/Element.cpp	/^void Element::removeAttribute(const QualifiedName& name)$/;"	f	language:C++	class:WebCore::Element
+removeAttribute	/home/zhaopan/fromchang/Element.cpp	/^void Element::removeAttribute(const String& name)$/;"	f	language:C++	class:WebCore::Element
+removeAttribute	/home/zhaopan/fromchang/Element.h	/^    void removeAttribute(const QualifiedName&);$/;"	p	language:C++	class:WebCore::Element
+removeAttribute	/home/zhaopan/fromchang/Element.h	/^    void removeAttribute(const String& name);$/;"	p	language:C++	class:WebCore::Element
+removeAttributeNode	/home/zhaopan/fromchang/Element.cpp	/^PassRefPtr<Attr> Element::removeAttributeNode(Attr* attr, ExceptionCode& ec)$/;"	f	language:C++	class:WebCore::Element
+removeAttributeNode	/home/zhaopan/fromchang/Element.h	/^    PassRefPtr<Attr> removeAttributeNode(Attr*, ExceptionCode&);$/;"	p	language:C++	class:WebCore::Element
+removeAttributeNS	/home/zhaopan/fromchang/Element.cpp	/^void Element::removeAttributeNS(const String& namespaceURI, const String& localName)$/;"	f	language:C++	class:WebCore::Element
+removeAttributeNS	/home/zhaopan/fromchang/Element.h	/^    void removeAttributeNS(const String& namespaceURI, const String& localName);$/;"	p	language:C++	class:WebCore::Element
+removeCachedClassNodeList	/home/zhaopan/fromchang/Node.cpp	/^void Node::removeCachedClassNodeList(ClassNodeList* list, const String& className)$/;"	f	language:C++	class:WebCore::Node
+removeCachedLabelsNodeList	/home/zhaopan/fromchang/Node.cpp	/^void Node::removeCachedLabelsNodeList(DynamicSubtreeNodeList* list)$/;"	f	language:C++	class:WebCore::Node
+removeCachedNameNodeList	/home/zhaopan/fromchang/Node.cpp	/^void Node::removeCachedNameNodeList(NameNodeList* list, const String& nodeName)$/;"	f	language:C++	class:WebCore::Node
+removeCachedTagNodeList	/home/zhaopan/fromchang/Node.cpp	/^void Node::removeCachedTagNodeList(TagNodeList* list, const AtomicString& name)$/;"	f	language:C++	class:WebCore::Node
+removeCachedTagNodeList	/home/zhaopan/fromchang/Node.cpp	/^void Node::removeCachedTagNodeList(TagNodeList* list, const QualifiedName& name)$/;"	f	language:C++	class:WebCore::Node
+removeChild	/home/zhaopan/fromchang/Node.cpp	/^bool Node::removeChild(Node* oldChild, ExceptionCode& ec)$/;"	f	language:C++	class:WebCore::Node
+RemoveChild	/home/zhaopan/NuDom/DOMNode.cc	/^    DomNode * RemoveChild(DOMNode * old_child) {$/;"	f	language:C++	class:DOMNode
+removeNodeListCacheIfPossible	/home/zhaopan/fromchang/Node.cpp	/^static void removeNodeListCacheIfPossible(Node* node, NodeRareData* data)$/;"	f	language:C++	namespace:WebCore
+removeShadowRoot	/home/zhaopan/fromchang/Element.cpp	/^void Element::removeShadowRoot()$/;"	f	language:C++	class:WebCore::Element
+removeShadowRoot	/home/zhaopan/fromchang/Element.h	/^    void removeShadowRoot();$/;"	p	language:C++	class:WebCore::Element
+REMOVE_NAME	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^REMOVE_NAME = re.compile(r'#.*$')$/;"	v	language:Python
+reorgdb	/home/zhaopan/webstemmer-dist-0.7.1/tools/urldbutils.py	/^def reorgdb(outname, fname, threshold, verbose):$/;"	f	language:Python
+replaceChild	/home/zhaopan/fromchang/Node.cpp	/^bool Node::replaceChild(PassRefPtr<Node> newChild, Node* oldChild, ExceptionCode& ec, bool shouldLazyAttach)$/;"	f	language:C++	class:WebCore::Node
+request	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def request(self, method, url, body=None, headers={}):$/;"	m	language:Python	class:HTTPConnection
+Request	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^from urllib2 import Request$/;"	i	language:Python
+REQUESTED_RANGE_NOT_SATISFIABLE	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^REQUESTED_RANGE_NOT_SATISFIABLE = 416$/;"	v	language:Python
+REQUEST_ENTITY_TOO_LARGE	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^REQUEST_ENTITY_TOO_LARGE = 413$/;"	v	language:Python
+REQUEST_TIMEOUT	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^REQUEST_TIMEOUT = 408$/;"	v	language:Python
+REQUEST_URI_TOO_LONG	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^REQUEST_URI_TOO_LONG = 414$/;"	v	language:Python
+RESET_CONTENT	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^RESET_CONTENT = 205$/;"	v	language:Python
+ResponseNotReady	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^class ResponseNotReady(ImproperConnectionState):$/;"	c	language:Python
+response_class	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    response_class = HTTPResponse$/;"	v	language:Python	class:HTTPConnection
+retrieve_blocks	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from webstemmer.layoutils import sigchars, get_textblocks, retrieve_blocks, WEBSTEMMER_VERSION, KEY_ATTRS$/;"	i	language:Python
+retrieve_blocks	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^from webstemmer.layoutils import sigchars, get_textblocks, retrieve_blocks, WEBSTEMMER_VERSION, KEY_ATTRS$/;"	i	language:Python
+retrieve_blocks	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^def retrieve_blocks(pathseq, blocks):$/;"	f	language:Python
+retrieve_blocks	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from webstemmer.layoutils import sigchars, get_textblocks, retrieve_blocks, WEBSTEMMER_VERSION, KEY_ATTRS$/;"	i	language:Python
+rewind	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^    def rewind(self):$/;"	m	language:Python	class:GzipFile
+rmsp	/home/zhaopan/webstemmer-dist-0.7.1/tools/html2txt.py	/^from webstemmer.htmlutils import rmsp, getencoder$/;"	i	language:Python
+rmsp	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/tools/html2txt.py	/^from webstemmer.htmlutils import rmsp, getencoder$/;"	i	language:Python
+RobotFileParser	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^from robotparser import RobotFileParser$/;"	i	language:Python
+run	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  def run(self):$/;"	m	language:Python	class:SimpleCrawler
+s	/home/zhaopan/test/except.py	/^    s = raw_input('Enter something --> ')$/;"	v	language:Python
+sayhello	/home/zhaopan/test/fun.py	/^def sayhello():$/;"	f	language:Python
+sayHi	/home/zhaopan/test/class.py	/^    def sayHi(self):$/;"	m	language:Python	class:Person
+scripts	/home/zhaopan/webstemmer-dist-0.7.1/setup.py	/^      scripts=['webstemmer\/textcrawler.py',$/;"	v	language:Python
+scrollByLines	/home/zhaopan/fromchang/Element.h	/^    void scrollByLines(int lines);$/;"	p	language:C++	class:WebCore::Element
+scrollByPages	/home/zhaopan/fromchang/Element.h	/^    void scrollByPages(int pages);$/;"	p	language:C++	class:WebCore::Element
+scrollIntoView	/home/zhaopan/fromchang/Element.h	/^    void scrollIntoView(bool alignToTop = true);$/;"	p	language:C++	class:WebCore::Element
+scrollIntoViewIfNeeded	/home/zhaopan/fromchang/Element.h	/^    void scrollIntoViewIfNeeded(bool centerIfNeeded = true);$/;"	p	language:C++	class:WebCore::Element
+seek	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^    def seek(self, offset):$/;"	m	language:Python	class:GzipFile
+SEE_OTHER	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^SEE_OTHER = 303$/;"	v	language:Python
+send	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def send(self, str):$/;"	m	language:Python	class:HTTPConnection
+send	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def send(self, stuff, flags = 0):$/;"	m	language:Python	class:FakeSocket
+sendall	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    sendall = send$/;"	v	language:Python	class:FakeSocket
+seqmatch	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^def seqmatch(s1, s2):$/;"	f	language:Python
+seqmatch	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^def seqmatch(s1, s2):$/;"	f	language:Python
+SequenceMatcher	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from difflib import SequenceMatcher$/;"	i	language:Python
+SequenceMatcher	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from difflib import SequenceMatcher$/;"	i	language:Python
+SERVICE_UNAVAILABLE	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^SERVICE_UNAVAILABLE = 503$/;"	v	language:Python
+setAttribute	/home/zhaopan/fromchang/Element.cpp	/^void Element::setAttribute(const AtomicString& name, const AtomicString& value, ExceptionCode& ec)$/;"	f	language:C++	class:WebCore::Element
+setAttribute	/home/zhaopan/fromchang/Element.cpp	/^void Element::setAttribute(const QualifiedName& name, const AtomicString& value)$/;"	f	language:C++	class:WebCore::Element
+setAttribute	/home/zhaopan/fromchang/Element.h	/^    void setAttribute(const AtomicString& name, const AtomicString& value, ExceptionCode&);$/;"	p	language:C++	class:WebCore::Element
+setAttribute	/home/zhaopan/fromchang/Element.h	/^    void setAttribute(const QualifiedName&, const AtomicString& value);$/;"	p	language:C++	class:WebCore::Element
+setAttributeInternal	/home/zhaopan/fromchang/Element.cpp	/^inline void Element::setAttributeInternal(size_t index, const QualifiedName& name, const AtomicString& value)$/;"	f	language:C++	class:WebCore::Element
+setAttributeInternal	/home/zhaopan/fromchang/Element.h	/^    void setAttributeInternal(size_t index, const QualifiedName&, const AtomicString& value);$/;"	p	language:C++	class:WebCore::Element
+setAttributeNode	/home/zhaopan/fromchang/Element.cpp	/^PassRefPtr<Attr> Element::setAttributeNode(Attr* attr, ExceptionCode& ec)$/;"	f	language:C++	class:WebCore::Element
+setAttributeNode	/home/zhaopan/fromchang/Element.h	/^    PassRefPtr<Attr> setAttributeNode(Attr*, ExceptionCode&);$/;"	p	language:C++	class:WebCore::Element
+setAttributeNodeNS	/home/zhaopan/fromchang/Element.cpp	/^PassRefPtr<Attr> Element::setAttributeNodeNS(Attr* attr, ExceptionCode& ec)$/;"	f	language:C++	class:WebCore::Element
+setAttributeNodeNS	/home/zhaopan/fromchang/Element.h	/^    PassRefPtr<Attr> setAttributeNodeNS(Attr*, ExceptionCode&);$/;"	p	language:C++	class:WebCore::Element
+setAttributeNS	/home/zhaopan/fromchang/Element.cpp	/^void Element::setAttributeNS(const AtomicString& namespaceURI, const AtomicString& qualifiedName, const AtomicString& value, ExceptionCode& ec, FragmentScriptingPermission scriptingPermission)$/;"	f	language:C++	class:WebCore::Element
+setAttributeNS	/home/zhaopan/fromchang/Element.h	/^    void setAttributeNS(const AtomicString& namespaceURI, const AtomicString& qualifiedName, const AtomicString& value, ExceptionCode&, FragmentScriptingPermission = FragmentScriptingAllowed);$/;"	p	language:C++	class:WebCore::Element
+setAttributesFromElement	/home/zhaopan/fromchang/Element.h	/^    void setAttributesFromElement(const Element&);$/;"	p	language:C++	class:WebCore::Element
+setAttributesFromElement	/home/zhaopan/fromchang/Element.h	/^inline void Element::setAttributesFromElement(const Element& other)$/;"	f	language:C++	class:WebCore::Element
+SetAttributeValue	/home/zhaopan/NuDom/DOMElement.cc	/^    void SetAttributeValue(const string attribute_name, const string attribute_value) {$/;"	f	language:C++	class:DOMElement
+setBooleanAttribute	/home/zhaopan/fromchang/Element.cpp	/^void Element::setBooleanAttribute(const QualifiedName& name, bool value)$/;"	f	language:C++	class:WebCore::Element
+setBooleanAttribute	/home/zhaopan/fromchang/Element.h	/^    void setBooleanAttribute(const QualifiedName& name, bool);$/;"	p	language:C++	class:WebCore::Element
+setDocument	/home/zhaopan/fromchang/Node.cpp	/^void Node::setDocument(Document* document)$/;"	f	language:C++	class:WebCore::Node
+setDocumentRecursively	/home/zhaopan/fromchang/Node.cpp	/^void Node::setDocumentRecursively(Document* newDocument)$/;"	f	language:C++	class:WebCore::Node
+setIdAttribute	/home/zhaopan/fromchang/Element.h	/^    void setIdAttribute(const AtomicString&);$/;"	p	language:C++	class:WebCore::Element
+setIdAttribute	/home/zhaopan/fromchang/Element.h	/^inline void Element::setIdAttribute(const AtomicString& value)$/;"	f	language:C++	class:WebCore::Element
+setIntegralAttribute	/home/zhaopan/fromchang/Element.cpp	/^void Element::setIntegralAttribute(const QualifiedName& attributeName, int value)$/;"	f	language:C++	class:WebCore::Element
+setIntegralAttribute	/home/zhaopan/fromchang/Element.h	/^    void setIntegralAttribute(const QualifiedName& attributeName, int value);$/;"	p	language:C++	class:WebCore::Element
+setItemProp	/home/zhaopan/fromchang/Node.cpp	/^void Node::setItemProp(const String& value)$/;"	f	language:C++	class:WebCore::Node
+setItemRef	/home/zhaopan/fromchang/Node.cpp	/^void Node::setItemRef(const String& value)$/;"	f	language:C++	class:WebCore::Node
+setItemType	/home/zhaopan/fromchang/Node.cpp	/^void Node::setItemType(const String& value)$/;"	f	language:C++	class:WebCore::Node
+setNeedsStyleRecalc	/home/zhaopan/fromchang/Node.cpp	/^void Node::setNeedsStyleRecalc(StyleChangeType changeType)$/;"	f	language:C++	class:WebCore::Node
+setNodeValue	/home/zhaopan/fromchang/Node.cpp	/^void Node::setNodeValue(const String& \/*nodeValue*\/, ExceptionCode& ec)$/;"	f	language:C++	class:WebCore::Node
+setPrefix	/home/zhaopan/fromchang/Element.cpp	/^void Element::setPrefix(const AtomicString& prefix, ExceptionCode& ec)$/;"	f	language:C++	class:WebCore::Element
+setPrefix	/home/zhaopan/fromchang/Element.h	/^    virtual void setPrefix(const AtomicString&, ExceptionCode&);$/;"	p	language:C++	class:WebCore::Element
+setPrefix	/home/zhaopan/fromchang/Node.cpp	/^void Node::setPrefix(const AtomicString& \/*prefix*\/, ExceptionCode& ec)$/;"	f	language:C++	class:WebCore::Node
+setShadowHost	/home/zhaopan/fromchang/Node.cpp	/^void Node::setShadowHost(Element* host)$/;"	f	language:C++	class:WebCore::Node
+setShadowPseudoId	/home/zhaopan/fromchang/Element.cpp	/^void Element::setShadowPseudoId(const AtomicString& id, ExceptionCode& ec)$/;"	f	language:C++	class:WebCore::Element
+setShadowPseudoId	/home/zhaopan/fromchang/Element.h	/^    void setShadowPseudoId(const AtomicString&, ExceptionCode& = ASSERT_NO_EXCEPTION);$/;"	p	language:C++	class:WebCore::Element
+setShadowRoot	/home/zhaopan/fromchang/Element.cpp	/^void Element::setShadowRoot(PassRefPtr<ShadowRoot> prpShadowRoot, ExceptionCode& ec)$/;"	f	language:C++	class:WebCore::Element
+setShadowRoot	/home/zhaopan/fromchang/Element.h	/^    void setShadowRoot(PassRefPtr<ShadowRoot>, ExceptionCode&);$/;"	p	language:C++	class:WebCore::Element
+setStyleAffectedByEmpty	/home/zhaopan/fromchang/Element.cpp	/^void Element::setStyleAffectedByEmpty()$/;"	f	language:C++	class:WebCore::Element
+setStyleAffectedByEmpty	/home/zhaopan/fromchang/Element.h	/^    void setStyleAffectedByEmpty();$/;"	p	language:C++	class:WebCore::Element
+setStyleChange	/home/zhaopan/fromchang/Node.cpp	/^inline void Node::setStyleChange(StyleChangeType changeType)$/;"	f	language:C++	class:WebCore::Node
+setTabIndexExplicitly	/home/zhaopan/fromchang/Node.cpp	/^void Node::setTabIndexExplicitly(short i)$/;"	f	language:C++	class:WebCore::Node
+setTextContent	/home/zhaopan/fromchang/Node.cpp	/^void Node::setTextContent(const String& text, ExceptionCode& ec)$/;"	f	language:C++	class:WebCore::Node
+setTreeScopeRecursively	/home/zhaopan/fromchang/Node.cpp	/^void Node::setTreeScopeRecursively(TreeScope* newTreeScope)$/;"	f	language:C++	class:WebCore::Node
+setUnsignedIntegralAttribute	/home/zhaopan/fromchang/Element.cpp	/^void Element::setUnsignedIntegralAttribute(const QualifiedName& attributeName, unsigned value)$/;"	f	language:C++	class:WebCore::Element
+setUnsignedIntegralAttribute	/home/zhaopan/fromchang/Element.h	/^    void setUnsignedIntegralAttribute(const QualifiedName& attributeName, unsigned value);$/;"	p	language:C++	class:WebCore::Element
+setup	/home/zhaopan/webstemmer-dist-0.7.1/setup.py	/^from distutils.core import setup$/;"	i	language:Python
+set_charset	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def set_charset(self, charset):$/;"	m	language:Python	class:HTMLDocumentBuilder
+set_charset	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^  def set_charset(self, charset):$/;"	m	language:Python	class:HTMLHandler
+set_charset	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^  def set_charset(self, charset):$/;"	m	language:Python	class:HTMLParser3
+set_debuglevel	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def set_debuglevel(self, level):$/;"	m	language:Python	class:HTTPConnection
+set_encoder	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def set_encoder(self, mangle_pat):$/;"	m	language:Python	class:LayoutAnalyzer
+set_encoder	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^  def set_encoder(self, mangle_pat):$/;"	m	language:Python	class:LayoutPatternSet
+set_encoder	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def set_encoder(self, mangle_pat):$/;"	m	language:Python	class:LayoutAnalyzer
+set_root_attrs	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def set_root_attrs(self, attrs):$/;"	m	language:Python	class:HTMLRootElement
+set_root_charset	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def set_root_charset(self, charset):$/;"	m	language:Python	class:HTMLRootElement
+set_style	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def set_style(self, stylesheet):$/;"	m	language:Python	class:HTMLElement
+SGMLParser3	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^from sgmlparser3 import SGMLParser3$/;"	i	language:Python
+shadowAncestorNode	/home/zhaopan/fromchang/Node.cpp	/^Node* Node::shadowAncestorNode() const$/;"	f	language:C++	class:WebCore::Node
+shadowHost	/home/zhaopan/fromchang/Node.cpp	/^Element* Node::shadowHost() const$/;"	f	language:C++	class:WebCore::Node
+shadowPseudoId	/home/zhaopan/fromchang/Element.cpp	/^const AtomicString& Element::shadowPseudoId() const$/;"	f	language:C++	class:WebCore::Element
+shadowPseudoId	/home/zhaopan/fromchang/Element.h	/^    virtual const AtomicString& shadowPseudoId() const;$/;"	p	language:C++	class:WebCore::Element
+shadowRoot	/home/zhaopan/fromchang/Element.cpp	/^ShadowRoot* Element::shadowRoot() const$/;"	f	language:C++	class:WebCore::Element
+shadowRoot	/home/zhaopan/fromchang/Element.h	/^    ShadowRoot* shadowRoot() const;$/;"	p	language:C++	class:WebCore::Element
+shadowRoot	/home/zhaopan/fromchang/Node.cpp	/^inline static ShadowRoot* shadowRoot(Node* node)$/;"	f	language:C++	namespace:WebCore
+shadowTreeRootNode	/home/zhaopan/fromchang/Node.cpp	/^Node* Node::shadowTreeRootNode() const$/;"	f	language:C++	class:WebCore::Node
+SHAREDLIB	/home/zhaopan/zlib-1.2.3/Makefile	/^SHAREDLIB=libz.so$/;"	m	language:Make
+SHAREDLIBM	/home/zhaopan/zlib-1.2.3/Makefile	/^SHAREDLIBM=libz.so.1$/;"	m	language:Make
+SHAREDLIBV	/home/zhaopan/zlib-1.2.3/Makefile	/^SHAREDLIBV=libz.so.1.2.3$/;"	m	language:Make
+SharedSocket	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^class SharedSocket:$/;"	c	language:Python
+SharedSocketClient	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^class SharedSocketClient:$/;"	c	language:Python
+SHELL	/home/zhaopan/zlib-1.2.3/Makefile	/^SHELL=\/bin\/sh$/;"	m	language:Make
+shoplist	/home/zhaopan/test/my_list.py	/^shoplist = ['thank', 'you', 'very', 'much']$/;"	v	language:Python
+shoplist	/home/zhaopan/test/using_list.py	/^shoplist = ['apple', 'mango', 'carrot', 'banana']$/;"	v	language:Python
+shouldIgnoreAttributeCase	/home/zhaopan/fromchang/Element.cpp	/^static inline bool shouldIgnoreAttributeCase(const Element* e)$/;"	f	language:C++	namespace:WebCore
+shouldIgnoreLeaks	/home/zhaopan/fromchang/Node.cpp	/^static bool shouldIgnoreLeaks = false;$/;"	m	language:C++	namespace:WebCore	file:
+shouldRegisterAsExtraNamedItem	/home/zhaopan/fromchang/Element.h	/^    virtual bool shouldRegisterAsExtraNamedItem() const { return false; }$/;"	f	language:C++	class:WebCore::Element
+shouldRegisterAsNamedItem	/home/zhaopan/fromchang/Element.h	/^    virtual bool shouldRegisterAsNamedItem() const { return false; }$/;"	f	language:C++	class:WebCore::Element
+shouldUseInputMethod	/home/zhaopan/fromchang/Node.cpp	/^bool Node::shouldUseInputMethod()$/;"	f	language:C++	class:WebCore::Node
+showNode	/home/zhaopan/fromchang/Node.cpp	/^void Node::showNode(const char* prefix) const$/;"	f	language:C++	class:WebCore::Node
+showSubTreeAcrossFrame	/home/zhaopan/fromchang/Node.cpp	/^static void showSubTreeAcrossFrame(Node* node, const Node* markedNode, const String& indent)$/;"	f	language:C++	namespace:WebCore
+showTree	/home/zhaopan/fromchang/Node.cpp	/^void showTree(const WebCore::Node* node)$/;"	f	language:C++
+showTreeAndMark	/home/zhaopan/fromchang/Node.cpp	/^void Node::showTreeAndMark(const Node* markedNode1, const char* markedLabel1, const Node* markedNode2, const char* markedLabel2) const$/;"	f	language:C++	class:WebCore::Node
+showTreeForThis	/home/zhaopan/fromchang/Node.cpp	/^void Node::showTreeForThis() const$/;"	f	language:C++	class:WebCore::Node
+sigchars	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from webstemmer.layoutils import sigchars, get_textblocks, retrieve_blocks, WEBSTEMMER_VERSION, KEY_ATTRS$/;"	i	language:Python
+sigchars	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^from webstemmer.layoutils import sigchars, get_textblocks, retrieve_blocks, WEBSTEMMER_VERSION, KEY_ATTRS$/;"	i	language:Python
+sigchars	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^def sigchars(s):$/;"	f	language:Python
+sigchars	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from webstemmer.layoutils import sigchars, get_textblocks, retrieve_blocks, WEBSTEMMER_VERSION, KEY_ATTRS$/;"	i	language:Python
+SIG_CHARS	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^SIG_CHARS = re.compile(r'\\w+', re.UNICODE)$/;"	v	language:Python
+SIG_TAGS	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^  SIG_TAGS = dict.fromkeys('title p h1 h2 h3 h4 h5 h6 tr td th dt dd li ul ol dl '$/;"	v	language:Python	class:Chunker
+SimpleCrawler	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^class SimpleCrawler:$/;"	c	language:Python
+socket	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^import socket$/;"	i	language:Python
+socket	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^import sys, re, time, socket$/;"	i	language:Python
+SpellcheckAttributeDefault	/home/zhaopan/fromchang/Element.h	/^    SpellcheckAttributeDefault$/;"	e	language:C++	enum:WebCore::SpellcheckAttributeState
+SpellcheckAttributeFalse	/home/zhaopan/fromchang/Element.h	/^    SpellcheckAttributeFalse,$/;"	e	language:C++	enum:WebCore::SpellcheckAttributeState
+spellcheckAttributeState	/home/zhaopan/fromchang/Element.cpp	/^SpellcheckAttributeState Element::spellcheckAttributeState() const$/;"	f	language:C++	class:WebCore::Element
+spellcheckAttributeState	/home/zhaopan/fromchang/Element.h	/^    SpellcheckAttributeState spellcheckAttributeState() const;$/;"	p	language:C++	class:WebCore::Element
+SpellcheckAttributeState	/home/zhaopan/fromchang/Element.h	/^enum SpellcheckAttributeState {$/;"	g	language:C++	namespace:WebCore
+SpellcheckAttributeTrue	/home/zhaopan/fromchang/Element.h	/^    SpellcheckAttributeTrue,$/;"	e	language:C++	enum:WebCore::SpellcheckAttributeState
+SSLFile	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^class SSLFile(SharedSocketClient):$/;"	c	language:Python
+startIgnoringLeaks	/home/zhaopan/fromchang/Node.cpp	/^void Node::startIgnoringLeaks()$/;"	f	language:C++	class:WebCore::Node
+start_a	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  def start_a(self, _, attrs):$/;"	m	language:Python	class:HTMLLinkFinder
+start_area	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  start_area = start_a$/;"	v	language:Python	class:HTMLLinkFinder
+start_base	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  def start_base(self, _, attrs):$/;"	m	language:Python	class:HTMLLinkFinder
+start_comment	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  def start_comment(self, _, attrs):$/;"	m	language:Python	class:HTMLLinkFinder
+start_unknown	/home/zhaopan/webstemmer-dist-0.7.1/tools/html2txt.py	/^  def start_unknown(self, tag, attrs):$/;"	m	language:Python	class:HTMLTextHandler
+start_unknown	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def start_unknown(self, tag, attrs):$/;"	m	language:Python	class:HTMLDocumentBuilder
+start_unknown	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^  def start_unknown(self, tag, attrs):$/;"	m	language:Python	class:HTMLHandler
+start_unknown	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  def start_unknown(self, tag, attrs):$/;"	m	language:Python	class:HTMLLinkFinder
+start_unknown	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/tools/html2txt.py	/^  def start_unknown(self, tag, attrs):$/;"	m	language:Python	class:HTMLTextHandler
+stderr	/home/zhaopan/webstemmer-dist-0.7.1/tools/urldbutils.py	/^stderr = sys.stderr$/;"	v	language:Python
+stderr	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^stderr = sys.stderr$/;"	v	language:Python
+stderr	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^stderr = sys.stderr$/;"	v	language:Python
+stderr	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^stderr = sys.stderr$/;"	v	language:Python
+stderr	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^stderr = sys.stderr$/;"	v	language:Python
+stderr	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^stderr = sys.stderr$/;"	v	language:Python
+stopIgnoringLeaks	/home/zhaopan/fromchang/Node.cpp	/^void Node::stopIgnoringLeaks()$/;"	f	language:C++	class:WebCore::Node
+strict	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    strict = 0$/;"	v	language:Python	class:HTTPConnection
+StringIO	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^      from cStringIO import StringIO$/;"	i	language:Python
+StringIO	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^      from StringIO import StringIO$/;"	i	language:Python
+StringIO	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    from cStringIO import StringIO$/;"	i	language:Python
+StringIO	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    from StringIO import StringIO$/;"	i	language:Python
+StringIO	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  from cStringIO import StringIO$/;"	i	language:Python
+StringIO	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  from StringIO import StringIO$/;"	i	language:Python
+struct	/home/zhaopan/webstemmer-dist-0.7.1/tools/urldbutils.py	/^import sys, time, struct, os$/;"	i	language:Python
+struct	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^import struct, sys, time$/;"	i	language:Python
+struct	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^    import md5, struct$/;"	i	language:Python
+Stu	/home/zhaopan/test/entirety.c	/^struct Stu {$/;"	s	language:C	file:
+style	/home/zhaopan/fromchang/Element.cpp	/^CSSStyleDeclaration *Element::style()$/;"	f	language:C++	class:WebCore::Element
+style	/home/zhaopan/fromchang/Element.h	/^    virtual CSSStyleDeclaration* style();$/;"	p	language:C++	class:WebCore::Element
+Style	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^from webstemmer.style import Style, StyleSheet, ActiveStyleSheet, parse_inline$/;"	i	language:Python
+styleAffectedByEmpty	/home/zhaopan/fromchang/Element.cpp	/^bool Element::styleAffectedByEmpty() const$/;"	f	language:C++	class:WebCore::Element
+styleAffectedByEmpty	/home/zhaopan/fromchang/Element.h	/^    bool styleAffectedByEmpty() const;$/;"	p	language:C++	class:WebCore::Element
+StyleSheet	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^from webstemmer.style import Style, StyleSheet, ActiveStyleSheet, parse_inline$/;"	i	language:Python
+svgShadowHost	/home/zhaopan/fromchang/Node.cpp	/^SVGUseElement* Node::svgShadowHost() const$/;"	f	language:C++	class:WebCore::Node
+swaroop	/home/zhaopan/test/class.py	/^swaroop = Person('Swaroop')$/;"	v	language:Python
+SWITCHING_PROTOCOLS	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^SWITCHING_PROTOCOLS = 101$/;"	v	language:Python
+sys	/home/zhaopan/test/arg.py	/^import sys$/;"	i	language:Python
+sys	/home/zhaopan/test/dir.py	/^import sys$/;"	i	language:Python
+sys	/home/zhaopan/test/except.py	/^import sys$/;"	i	language:Python
+sys	/home/zhaopan/test/std.py	/^import sys$/;"	i	language:Python
+sys	/home/zhaopan/webstemmer-dist-0.7.1/tools/html2txt.py	/^import sys, re$/;"	i	language:Python
+sys	/home/zhaopan/webstemmer-dist-0.7.1/tools/perf.py	/^import sys, os$/;"	i	language:Python
+sys	/home/zhaopan/webstemmer-dist-0.7.1/tools/urldbutils.py	/^import sys, time, struct, os$/;"	i	language:Python
+sys	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^import sys, re, random$/;"	i	language:Python
+sys	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^import sys, re$/;"	i	language:Python
+sys	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^import struct, sys, time$/;"	i	language:Python
+sys	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^import sys$/;"	i	language:Python
+sys	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^import sys, re$/;"	i	language:Python
+sys	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    import sys$/;"	i	language:Python
+sys	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^import sys, re$/;"	i	language:Python
+sys	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^import sys, re, time, socket$/;"	i	language:Python
+sys	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/tools/html2txt.py	/^import sys, re$/;"	i	language:Python
+sys	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/tools/perf.py	/^import sys, os$/;"	i	language:Python
+sys	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^import sys, re, random$/;"	i	language:Python
+tabIndex	/home/zhaopan/fromchang/Node.cpp	/^short Node::tabIndex() const$/;"	f	language:C++	class:WebCore::Node
+tag	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^def tag(x):$/;"	f	language:Python
+tag	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^from webstemmer.htmldom import tag$/;"	i	language:Python
+tagName	/home/zhaopan/fromchang/Element.h	/^    String tagName() const { return nodeName(); }$/;"	f	language:C++	class:WebCore::Element
+tagQName	/home/zhaopan/fromchang/Element.h	/^    const QualifiedName& tagQName() const { return m_tagName; }$/;"	f	language:C++	class:WebCore::Element
+TAGSTOP	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^  TAGSTOP = {$/;"	v	language:Python	class:HTMLParser3
+TAR	/home/zhaopan/zlib-1.2.3/Makefile	/^TAR=tar$/;"	m	language:Make
+target	/home/zhaopan/fromchang/Element.h	/^    virtual String target() const { return String(); }$/;"	f	language:C++	class:WebCore::Element
+tell	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^    def tell(self):$/;"	m	language:Python	class:GzipFile
+tempfile	/home/zhaopan/test/1.c	6;"	d	language:C	file:
+TEMPORARY_REDIRECT	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^TEMPORARY_REDIRECT = 307$/;"	v	language:Python
+Test	/home/zhaopan/test/stru.c	/^} Test;$/;"	t	language:C	typeref:struct:_Test	file:
+test	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^def test():$/;"	f	language:Python
+TEST_OBJS	/home/zhaopan/zlib-1.2.3/Makefile	/^TEST_OBJS = example.o minigzip.o$/;"	m	language:Make
+text	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^def text(x):$/;"	f	language:Python
+TextBlock	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^class TextBlock:$/;"	c	language:Python
+textContent	/home/zhaopan/fromchang/Node.cpp	/^String Node::textContent(bool convertBRsToNewlines) const$/;"	f	language:C++	class:WebCore::Node
+TextCrawler	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^class TextCrawler(SimpleCrawler):$/;"	c	language:Python
+TextExtractor	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^class TextExtractor:$/;"	c	language:Python
+time	/home/zhaopan/webstemmer-dist-0.7.1/tools/urldbutils.py	/^import sys, time, struct, os$/;"	i	language:Python
+time	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^import struct, sys, time$/;"	i	language:Python
+time	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^import sys, re, time, socket$/;"	i	language:Python
+titlability	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^def titlability(title, body):$/;"	f	language:Python
+titlability	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^def titlability(title, body):$/;"	f	language:Python
+titlability0	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^def titlability0(s1, s2):$/;"	f	language:Python
+titlability0	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^def titlability0(s1, s2):$/;"	f	language:Python
+title	/home/zhaopan/fromchang/Element.cpp	/^String Element::title() const$/;"	f	language:C++	class:WebCore::Element
+title	/home/zhaopan/fromchang/Element.h	/^    virtual String title() const;$/;"	p	language:C++	class:WebCore::Element
+Tlist_File_Fold_Auto_Close	/home/zhaopan/.vimrc	/^let Tlist_File_Fold_Auto_Close=1$/;"	v	language:Vim
+Tlist_File_Fold_Auto_Close	/home/zhaopan/myNotes/dayNotes/vimrc	/^let Tlist_File_Fold_Auto_Close=1$/;"	v	language:Vim
+toElement	/home/zhaopan/fromchang/Element.h	/^inline const Element* toElement(const Node* node)$/;"	f	language:C++	namespace:WebCore
+toElement	/home/zhaopan/fromchang/Element.h	/^inline Element* toElement(Node* node)$/;"	f	language:C++	namespace:WebCore
+toElement	/home/zhaopan/fromchang/Element.h	/^void toElement(const Element*);$/;"	p	language:C++	namespace:WebCore
+toInputElement	/home/zhaopan/fromchang/Node.cpp	/^HTMLInputElement* Node::toInputElement()$/;"	f	language:C++	class:WebCore::Node
+toNode	/home/zhaopan/fromchang/Node.cpp	/^Node* Node::toNode()$/;"	f	language:C++	class:WebCore::Node
+transientMutationObserverRegistry	/home/zhaopan/fromchang/Node.cpp	/^HashSet<MutationObserverRegistration*>* Node::transientMutationObserverRegistry()$/;"	f	language:C++	class:WebCore::Node
+traverseNextNode	/home/zhaopan/fromchang/Node.cpp	/^Node* Node::traverseNextNode(const Node* stayWithin) const$/;"	f	language:C++	class:WebCore::Node
+traverseNextNodePostOrder	/home/zhaopan/fromchang/Node.cpp	/^Node* Node::traverseNextNodePostOrder() const$/;"	f	language:C++	class:WebCore::Node
+traverseNextSibling	/home/zhaopan/fromchang/Node.cpp	/^Node* Node::traverseNextSibling(const Node* stayWithin) const$/;"	f	language:C++	class:WebCore::Node
+traversePreviousNode	/home/zhaopan/fromchang/Node.cpp	/^Node* Node::traversePreviousNode(const Node* stayWithin) const$/;"	f	language:C++	class:WebCore::Node
+traversePreviousNodePostOrder	/home/zhaopan/fromchang/Node.cpp	/^Node* Node::traversePreviousNodePostOrder(const Node* stayWithin) const$/;"	f	language:C++	class:WebCore::Node
+traversePreviousSibling	/home/zhaopan/fromchang/Node.cpp	/^Node* Node::traversePreviousSibling(const Node* stayWithin) const$/;"	f	language:C++	class:WebCore::Node
+traversePreviousSiblingPostOrder	/home/zhaopan/fromchang/Node.cpp	/^Node* Node::traversePreviousSiblingPostOrder(const Node* stayWithin) const$/;"	f	language:C++	class:WebCore::Node
+traverseTreeAndMark	/home/zhaopan/fromchang/Node.cpp	/^static void traverseTreeAndMark(const String& baseIndent, const Node* rootNode, const Node* markedNode1, const char* markedLabel1, const Node* markedNode2, const char* markedLabel2)$/;"	f	language:C++	namespace:WebCore
+treeScope	/home/zhaopan/fromchang/Node.cpp	/^TreeScope* Node::treeScope() const$/;"	f	language:C++	class:WebCore::Node
+tt	/home/zhaopan/test/test.h	/^    void tt() {$/;"	f	language:C++	class:A
+twice	/home/zhaopan/test/lambda.py	/^twice = make_repeater(10)$/;"	v	language:Python
+U32	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^def U32(i):$/;"	f	language:Python
+UNAUTHORIZED	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^UNAUTHORIZED = 401$/;"	v	language:Python
+UnimplementedFileMode	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^class UnimplementedFileMode(HTTPException):$/;"	c	language:Python
+uniq_path	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def uniq_path(blocks):$/;"	f	language:Python	function:find_clusters
+uniq_path	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def uniq_path(blocks):$/;"	f	language:Python	function:find_clusters
+UnknownProtocol	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^class UnknownProtocol(HTTPException):$/;"	c	language:Python
+UnknownTransferEncoding	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^class UnknownTransferEncoding(HTTPException):$/;"	c	language:Python
+UNPROCESSABLE_ENTITY	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^UNPROCESSABLE_ENTITY = 422$/;"	v	language:Python
+unquote	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^    from urllib import unquote$/;"	i	language:Python
+unregisterDynamicSubtreeNodeList	/home/zhaopan/fromchang/Node.cpp	/^void Node::unregisterDynamicSubtreeNodeList(DynamicSubtreeNodeList* list)$/;"	f	language:C++	class:WebCore::Node
+unregisterMutationObserver	/home/zhaopan/fromchang/Node.cpp	/^void Node::unregisterMutationObserver(MutationObserverRegistration* registration)$/;"	f	language:C++	class:WebCore::Node
+unregisterTransientMutationObserver	/home/zhaopan/fromchang/Node.cpp	/^void Node::unregisterTransientMutationObserver(MutationObserverRegistration* registration)$/;"	f	language:C++	class:WebCore::Node
+UNSUPPORTED_MEDIA_TYPE	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^UNSUPPORTED_MEDIA_TYPE = 415$/;"	v	language:Python
+updateAnimatedSVGAttribute	/home/zhaopan/fromchang/Element.h	/^    virtual void updateAnimatedSVGAttribute(const QualifiedName&) const { }$/;"	f	language:C++	class:WebCore::Element
+updateExtraNamedItemRegistration	/home/zhaopan/fromchang/Element.cpp	/^void Element::updateExtraNamedItemRegistration(const AtomicString& oldId, const AtomicString& newId)$/;"	f	language:C++	class:WebCore::Element
+updateExtraNamedItemRegistration	/home/zhaopan/fromchang/Element.h	/^    void updateExtraNamedItemRegistration(const AtomicString& oldName, const AtomicString& newName);$/;"	p	language:C++	class:WebCore::Element
+updateId	/home/zhaopan/fromchang/Element.h	/^    void updateId(const AtomicString& oldId, const AtomicString& newId);$/;"	p	language:C++	class:WebCore::Element
+updateId	/home/zhaopan/fromchang/Element.h	/^inline void Element::updateId(const AtomicString& oldId, const AtomicString& newId)$/;"	f	language:C++	class:WebCore::Element
+updateName	/home/zhaopan/fromchang/Element.h	/^    void updateName(const AtomicString& oldName, const AtomicString& newName);$/;"	p	language:C++	class:WebCore::Element
+updateName	/home/zhaopan/fromchang/Element.h	/^inline void Element::updateName(const AtomicString& oldName, const AtomicString& newName)$/;"	f	language:C++	class:WebCore::Element
+updateNamedItemRegistration	/home/zhaopan/fromchang/Element.cpp	/^void Element::updateNamedItemRegistration(const AtomicString& oldName, const AtomicString& newName)$/;"	f	language:C++	class:WebCore::Element
+updateNamedItemRegistration	/home/zhaopan/fromchang/Element.h	/^    void updateNamedItemRegistration(const AtomicString& oldName, const AtomicString& newName);$/;"	p	language:C++	class:WebCore::Element
+UPGRADE_REQUIRED	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^UPGRADE_REQUIRED = 426$/;"	v	language:Python
+upperbound	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^upperbound = min$/;"	v	language:Python
+upperbound	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^upperbound = min$/;"	v	language:Python
+url	/home/zhaopan/webstemmer-dist-0.7.1/setup.py	/^      url='http:\/\/www.unixuser.org\/~euske\/python\/webstemmer\/index.html',$/;"	v	language:Python
+URLDB	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^class URLDB:$/;"	c	language:Python
+urljoin	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from urlparse import urljoin$/;"	i	language:Python
+urljoin	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^    from urlparse import urljoin$/;"	i	language:Python
+urljoin	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^from urlparse import urlsplit, urljoin$/;"	i	language:Python
+urljoin	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from urlparse import urljoin$/;"	i	language:Python
+urllib	/home/zhaopan/webstemmer-dist-0.7.1/tools/html2txt.py	/^  import getopt, urllib$/;"	i	language:Python
+urllib	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/tools/html2txt.py	/^  import getopt, urllib$/;"	i	language:Python
+urlsplit	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^from urlparse import urlsplit$/;"	i	language:Python
+urlsplit	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^from urlparse import urlsplit, urljoin$/;"	i	language:Python
+usage	/home/zhaopan/webstemmer-dist-0.7.1/tools/html2txt.py	/^  def usage():$/;"	f	language:Python
+usage	/home/zhaopan/webstemmer-dist-0.7.1/tools/urldbutils.py	/^  def usage():$/;"	f	language:Python
+usage	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def usage():$/;"	f	language:Python	function:main
+usage	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^  def usage():$/;"	f	language:Python	function:main
+usage	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def usage():$/;"	f	language:Python
+usage	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^  def usage():$/;"	f	language:Python
+usage	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  def usage():$/;"	f	language:Python	function:main
+usage	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/tools/html2txt.py	/^  def usage():$/;"	f	language:Python
+usage	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def usage():$/;"	f	language:Python	function:main
+USER_AGENT	/home/zhaopan/test/test.py	/^USER_AGENT = 'SimpleCrawler\/0.1'$/;"	v	language:Python
+USER_AGENT	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  USER_AGENT = 'SimpleCrawler\/0.1'$/;"	v	language:Python	class:SimpleCrawler
+USE_PROXY	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^USE_PROXY = 305$/;"	v	language:Python
+validate	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^def validate(root, e0):$/;"	f	language:Python
+validateShadowRoot	/home/zhaopan/fromchang/Element.cpp	/^static bool validateShadowRoot(Document* document, ShadowRoot* shadowRoot, ExceptionCode& ec)$/;"	f	language:C++	namespace:WebCore
+VALID_TAGS	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^from webstemmer.htmlutils import getdecoder, BLOCK_TAGS, CDATA_TAGS, INLINE_IMMED_TAGS, NON_NESTED_TAGS, VALID_TAGS$/;"	i	language:Python
+VERSION	/home/zhaopan/webstemmer-dist-0.7.1/Makefile	/^VERSION=`$(PYTHON) $(PACKAGE)\/__init__.py`$/;"	m	language:Make
+version	/home/zhaopan/webstemmer-dist-0.7.1/setup.py	/^      version=__version__,$/;"	v	language:Python
+virtualLocalName	/home/zhaopan/fromchang/Element.h	/^    virtual const AtomicString& virtualLocalName() const { return localName(); }$/;"	f	language:C++	class:WebCore::Element
+virtualLocalName	/home/zhaopan/fromchang/Node.cpp	/^const AtomicString& Node::virtualLocalName() const$/;"	f	language:C++	class:WebCore::Node
+virtualNamespaceURI	/home/zhaopan/fromchang/Element.h	/^    virtual const AtomicString& virtualNamespaceURI() const { return namespaceURI(); }$/;"	f	language:C++	class:WebCore::Element
+virtualNamespaceURI	/home/zhaopan/fromchang/Node.cpp	/^const AtomicString& Node::virtualNamespaceURI() const$/;"	f	language:C++	class:WebCore::Node
+virtualPrefix	/home/zhaopan/fromchang/Element.h	/^    virtual const AtomicString& virtualPrefix() const { return prefix(); }$/;"	f	language:C++	class:WebCore::Element
+virtualPrefix	/home/zhaopan/fromchang/Node.cpp	/^const AtomicString& Node::virtualPrefix() const$/;"	f	language:C++	class:WebCore::Node
+visited	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  def visited(self, url):$/;"	m	language:Python	class:URLDB
+walk	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def walk(self, cut=lambda d,e: False, endtag=False, depth=0):$/;"	m	language:Python	class:HTMLElement
+wash_url	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from webstemmer.textcrawler import HTMLLinkFinder, wash_url$/;"	i	language:Python
+wash_url	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^def wash_url(url):$/;"	f	language:Python
+wash_url	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from webstemmer.textcrawler import HTMLLinkFinder, wash_url$/;"	i	language:Python
+WebCore	/home/zhaopan/fromchang/Element.cpp	/^namespace WebCore {$/;"	n	language:C++	file:
+WebCore	/home/zhaopan/fromchang/Element.h	/^namespace WebCore {$/;"	n	language:C++
+WebCore	/home/zhaopan/fromchang/Node.cpp	/^namespace WebCore {$/;"	n	language:C++	file:
+WEBDIR	/home/zhaopan/webstemmer-dist-0.7.1/Makefile	/^WEBDIR=$$HOME\/Site\/unixuser.org\/python\/webstemmer$/;"	m	language:Make
+webkitGetAnimations	/home/zhaopan/fromchang/Element.h	/^    PassRefPtr<WebKitAnimationList> webkitGetAnimations() const;$/;"	p	language:C++	class:WebCore::Element
+webkitMatchesSelector	/home/zhaopan/fromchang/Element.h	/^    bool webkitMatchesSelector(const String& selectors, ExceptionCode&);$/;"	p	language:C++	class:WebCore::Element
+WEBSTEMMER_VERSION	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from webstemmer.layoutils import sigchars, get_textblocks, retrieve_blocks, WEBSTEMMER_VERSION, KEY_ATTRS$/;"	i	language:Python
+WEBSTEMMER_VERSION	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^from webstemmer.layoutils import sigchars, get_textblocks, retrieve_blocks, WEBSTEMMER_VERSION, KEY_ATTRS$/;"	i	language:Python
+WEBSTEMMER_VERSION	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^WEBSTEMMER_VERSION='0.6.1'$/;"	v	language:Python
+WEBSTEMMER_VERSION	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from webstemmer.layoutils import sigchars, get_textblocks, retrieve_blocks, WEBSTEMMER_VERSION, KEY_ATTRS$/;"	i	language:Python
+willModifyAttribute	/home/zhaopan/fromchang/Element.cpp	/^void Element::willModifyAttribute(const QualifiedName& name, const AtomicString& oldValue, const AtomicString& newValue)$/;"	f	language:C++	class:WebCore::Element
+willModifyAttribute	/home/zhaopan/fromchang/Element.h	/^    void willModifyAttribute(const QualifiedName&, const AtomicString& oldValue, const AtomicString& newValue);$/;"	p	language:C++	class:WebCore::Element
+willRemoveAttribute	/home/zhaopan/fromchang/Element.h	/^    void willRemoveAttribute(const QualifiedName&, const AtomicString& value);$/;"	p	language:C++	class:WebCore::Element
+willRemoveAttribute	/home/zhaopan/fromchang/Element.h	/^inline void Element::willRemoveAttribute(const QualifiedName& name, const AtomicString& value)$/;"	f	language:C++	class:WebCore::Element
+willStopBeingFullscreenElement	/home/zhaopan/fromchang/Element.h	/^    virtual void willStopBeingFullscreenElement() { }$/;"	f	language:C++	class:WebCore::Element
+willValidate	/home/zhaopan/fromchang/Element.h	/^    virtual bool willValidate() const { return false; }$/;"	f	language:C++	class:WebCore::Element
+write	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^    def write(self,data):$/;"	m	language:Python	class:GzipFile
+write32	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^def write32(output, value):$/;"	f	language:Python
+write32u	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^def write32u(output, value):$/;"	f	language:Python
+writelines	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^    def writelines(self, L):$/;"	m	language:Python	class:GzipFile
+WriteToString	/home/zhaopan/NuDom/DOMDocument.cc	/^    string WriteToString() {$/;"	f	language:C++	class:DOMDocument
+WriteToString	/home/zhaopan/NuDom/DOMNode.cc	/^    string WriteToString() {$/;"	f	language:C++	class:DOMNode
+ZipDumper	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^from webstemmer.zipdb import ACLDB, ZipDumper, NullDumper$/;"	i	language:Python
+ZipLoader	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from webstemmer.zipdb import ACLDB, ZipLoader$/;"	i	language:Python
+ZipLoader	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^from webstemmer.zipdb import ACLDB, ZipLoader$/;"	i	language:Python
+ZipLoader	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^from webstemmer.zipdb import ACLDB, ZipLoader$/;"	i	language:Python
+zlib	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^import zlib$/;"	i	language:Python
+_add_read_data	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^    def _add_read_data(self, data):$/;"	m	language:Python	class:GzipFile
+_check_close	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def _check_close(self):$/;"	m	language:Python	class:HTTPResponse
+_closedsocket	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    class _closedsocket:$/;"	c	language:Python	class:FakeSocket
+_connection_class	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^        _connection_class = HTTPSConnection$/;"	v	language:Python	class:.HTTPS
+_connection_class	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    _connection_class = HTTPConnection$/;"	v	language:Python	class:HTTP
+_CS_IDLE	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^_CS_IDLE = 'Idle'$/;"	v	language:Python
+_CS_REQ_SENT	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^_CS_REQ_SENT = 'Request-sent'$/;"	v	language:Python
+_CS_REQ_STARTED	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^_CS_REQ_STARTED = 'Request-started'$/;"	v	language:Python
+_done	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def _done(self):$/;"	m	language:Python	class:LineAndFileWrapper
+_fileobj_read	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^    def _fileobj_read(self, size):$/;"	m	language:Python	class:GzipFile
+_http_vsn	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^        _http_vsn = 11$/;"	v	language:Python	class:test.HTTP11
+_http_vsn	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    _http_vsn = 10$/;"	v	language:Python	class:HTTP
+_http_vsn	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    _http_vsn = 11$/;"	v	language:Python	class:HTTPConnection
+_http_vsn_str	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^        _http_vsn_str = 'HTTP\/1.1'$/;"	v	language:Python	class:test.HTTP11
+_http_vsn_str	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    _http_vsn_str = 'HTTP\/1.0'$/;"	v	language:Python	class:HTTP
+_http_vsn_str	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    _http_vsn_str = 'HTTP\/1.1'$/;"	v	language:Python	class:HTTPConnection
+_init_read	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^    def _init_read(self):$/;"	m	language:Python	class:GzipFile
+_init_write	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^    def _init_write(self, filename):$/;"	m	language:Python	class:GzipFile
+_output	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def _output(self, s):$/;"	m	language:Python	class:HTTPConnection
+_read	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^    def _read(self, size=1024):$/;"	m	language:Python	class:GzipFile
+_read	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def _read(self):$/;"	m	language:Python	class:SSLFile
+_read_chunked	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def _read_chunked(self, amt):$/;"	m	language:Python	class:HTTPResponse
+_read_eof	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^    def _read_eof(self):$/;"	m	language:Python	class:GzipFile
+_read_gzip_header	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^    def _read_gzip_header(self):$/;"	m	language:Python	class:GzipFile
+_read_status	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def _read_status(self):$/;"	m	language:Python	class:HTTPResponse
+_safe_read	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def _safe_read(self, amt):$/;"	m	language:Python	class:HTTPResponse
+_send_output	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def _send_output(self):$/;"	m	language:Python	class:HTTPConnection
+_send_request	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def _send_request(self, method, url, body, headers):$/;"	m	language:Python	class:HTTPConnection
+_setup	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def _setup(self, conn):$/;"	m	language:Python	class:HTTP
+_set_hostport	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def _set_hostport(self, host, port):$/;"	m	language:Python	class:HTTPConnection
+_Test	/home/zhaopan/test/stru.c	/^typedef struct _Test {$/;"	s	language:C	file:
+_test	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^def _test():$/;"	f	language:Python
+_UNKNOWN	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^_UNKNOWN = 'UNKNOWN'$/;"	v	language:Python
+_unread	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^    def _unread(self, buf):$/;"	m	language:Python	class:GzipFile
+_write_gzip_header	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^    def _write_gzip_header(self):$/;"	m	language:Python	class:GzipFile
+__all__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^__all__ = ["GzipFile","open"]$/;"	v	language:Python
+__all__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^__all__ = [ 'HTMLHandler', 'HTMLParser3' ]$/;"	v	language:Python
+__all__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^__all__ = ["HTTP", "HTTPResponse", "HTTPConnection", "HTTPSConnection",$/;"	v	language:Python
+__builtin__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^import __builtin__$/;"	i	language:Python
+__del__	/home/zhaopan/test/class.py	/^    def __del__(self):$/;"	m	language:Python	class:Person	file:
+__del__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^    def __del__(self):$/;"	m	language:Python	class:GzipFile	file:
+__del__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def __del__(self):$/;"	m	language:Python	class:SharedSocket	file:
+__getattr__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^        def __getattr__(self, name):$/;"	m	language:Python	class:FakeSocket._closedsocket	file:
+__getattr__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def __getattr__(self, attr):$/;"	m	language:Python	class:FakeSocket	file:
+__getattr__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def __getattr__(self, attr):$/;"	m	language:Python	class:LineAndFileWrapper	file:
+__getitem__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def __getitem__(self, k):$/;"	m	language:Python	class:HTMLElement	file:
+__init__	/home/zhaopan/test/class.py	/^    def __init__(self, name):$/;"	m	language:Python	class:Person
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/tools/html2txt.py	/^    def __init__(self, charset):$/;"	m	language:Python	class:.out
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/tools/html2txt.py	/^  def __init__(self, out, ignored_tags=IGNORED_TAGS, newline_tags=NEWLINE_TAGS):$/;"	m	language:Python	class:HTMLTextHandler
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def __init__(self, analyzer, linkinfo='linkinfo', default_charset='utf-8',$/;"	m	language:Python	class:PageFeeder
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def __init__(self, debug=0):$/;"	m	language:Python	class:LayoutAnalyzer
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def __init__(self, id, blockgroups):$/;"	m	language:Python	class:LayoutSectionCluster
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def __init__(self, name, debug=0):$/;"	m	language:Python	class:LayoutCluster
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def __init__(self, name, tree, encoder=None):$/;"	m	language:Python	class:HTMLPage
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^  def __init__(self, debug=0):$/;"	m	language:Python	class:LayoutPatternSet
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^  def __init__(self, id, diffscore, mainscore, blocks):$/;"	m	language:Python	class:LayoutSection
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^  def __init__(self, name, score, title_sectno, main_sectno, pattern):$/;"	m	language:Python	class:LayoutPattern
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/extract.py	/^  def __init__(self, patternset, pat_threshold=0.9, diffscore_threshold=0.5, mainscore_threshold=10,$/;"	m	language:Python	class:TextExtractor
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^    def __init__(self, filename=None, mode=None,$/;"	m	language:Python	class:GzipFile
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def __init__(self, base_href=None, stylesheet=None):$/;"	m	language:Python	class:HTMLDocumentBuilder
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def __init__(self, charset=None, base_href=None):$/;"	m	language:Python	class:HTMLRootElement
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def __init__(self, root, attrs):$/;"	m	language:Python	class:HTMLForm
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def __init__(self, root, tag, children=None, attrs=None, parent=None, active=True):$/;"	m	language:Python	class:HTMLElement
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmlparser3.py	/^  def __init__(self, handler, charset=None, debug=0):$/;"	m	language:Python	class:HTMLParser3
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^        def __init__(self, host='', port=None, key_file=None, cert_file=None,$/;"	m	language:Python	class:.HTTPS
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def __init__(self, host, port=None, key_file=None, cert_file=None,$/;"	m	language:Python	class:HTTPSConnection
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def __init__(self, host, port=None, strict=None):$/;"	m	language:Python	class:HTTPConnection
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def __init__(self, host='', port=None, strict=None):$/;"	m	language:Python	class:HTTP
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def __init__(self, line):$/;"	m	language:Python	class:BadStatusLine
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def __init__(self, line, file):$/;"	m	language:Python	class:LineAndFileWrapper
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def __init__(self, partial):$/;"	m	language:Python	class:IncompleteRead
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def __init__(self, shared):$/;"	m	language:Python	class:SharedSocketClient
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def __init__(self, sock):$/;"	m	language:Python	class:SharedSocket
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def __init__(self, sock, debuglevel=0, strict=0, method=None):$/;"	m	language:Python	class:HTTPResponse
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def __init__(self, sock, ssl):$/;"	m	language:Python	class:FakeSocket
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def __init__(self, sock, ssl, bufsize=None):$/;"	m	language:Python	class:SSLFile
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def __init__(self, version):$/;"	m	language:Python	class:UnknownProtocol
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^  def __init__(self, encoder):$/;"	m	language:Python	class:Chunker
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^  def __init__(self, path, text, text_noanchor):$/;"	m	language:Python	class:TextBlock
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  def __init__(self, baseid):$/;"	m	language:Python	class:RefTextDB
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  def __init__(self, consumer, starturl, baseid, reftxtdb=None,$/;"	m	language:Python	class:TextCrawler
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  def __init__(self, crawler, base_href, reftxtdb=None):$/;"	m	language:Python	class:HTMLLinkFinder
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  def __init__(self, path, debug=0):$/;"	m	language:Python	class:URLDB
+__init__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/textcrawler.py	/^  def __init__(self, starturl, index_html='', maxlevel=1,$/;"	m	language:Python	class:SimpleCrawler
+__init__	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/tools/html2txt.py	/^    def __init__(self, charset):$/;"	m	language:Python	class:.out
+__init__	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/tools/html2txt.py	/^  def __init__(self, out, ignored_tags=IGNORED_TAGS, newline_tags=NEWLINE_TAGS):$/;"	m	language:Python	class:HTMLTextHandler
+__init__	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def __init__(self, analyzer, linkinfo='linkinfo', default_charset='utf-8',$/;"	m	language:Python	class:PageFeeder
+__init__	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def __init__(self, debug=0):$/;"	m	language:Python	class:LayoutAnalyzer
+__init__	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def __init__(self, id, blockgroups):$/;"	m	language:Python	class:LayoutSectionCluster
+__init__	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def __init__(self, name, debug=0):$/;"	m	language:Python	class:LayoutCluster
+__init__	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def __init__(self, name, tree, encoder=None):$/;"	m	language:Python	class:HTMLPage
+__iter__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^    def __iter__(self):$/;"	m	language:Python	class:GzipFile	file:
+__iter__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def __iter__(self):$/;"	m	language:Python	class:HTMLElement	file:
+__iter__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/httplib.py	/^    def __iter__(self):$/;"	m	language:Python	class:SSLFile	file:
+__repr__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def __repr__(self):$/;"	m	language:Python	class:HTMLPage	file:
+__repr__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def __repr__(self):$/;"	m	language:Python	class:LayoutCluster	file:
+__repr__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def __repr__(self):$/;"	m	language:Python	class:LayoutSectionCluster	file:
+__repr__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/gzipstream.py	/^    def __repr__(self):$/;"	m	language:Python	class:GzipFile	file:
+__repr__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def __repr__(self):$/;"	m	language:Python	class:HTMLElement	file:
+__repr__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/layoutils.py	/^  def __repr__(self):$/;"	m	language:Python	class:TextBlock	file:
+__repr__	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def __repr__(self):$/;"	m	language:Python	class:HTMLPage	file:
+__repr__	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def __repr__(self):$/;"	m	language:Python	class:LayoutCluster	file:
+__repr__	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/analyze.py	/^  def __repr__(self):$/;"	m	language:Python	class:LayoutSectionCluster	file:
+__setitem__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/htmldom.py	/^  def __setitem__(self, k, v):$/;"	m	language:Python	class:HTMLElement	file:
+__version__	/home/zhaopan/webstemmer-dist-0.7.1/setup.py	/^from webstemmer import __version__$/;"	i	language:Python
+__version__	/home/zhaopan/webstemmer-dist-0.7.1/webstemmer/__init__.py	/^__version__ = '0.7.1'$/;"	v	language:Python
+__version__	/mnt/hgfs/linuxShares/webstemmer-dist-0.7.1/webstemmer/__init__.py	/^__version__ = '0.7.1'$/;"	v	language:Python
+~A	/home/zhaopan/test/virtual.cpp	/^    virtual ~A(){$/;"	f	language:C++	class:A
+~B	/home/zhaopan/test/virtual.cpp	/^    ~B() {$/;"	f	language:C++	class:B
+~Element	/home/zhaopan/fromchang/Element.cpp	/^Element::~Element()$/;"	f	language:C++	class:WebCore::Element
+~Element	/home/zhaopan/fromchang/Element.h	/^    virtual ~Element();$/;"	p	language:C++	class:WebCore::Element
+~Node	/home/zhaopan/fromchang/Node.cpp	/^Node::~Node()$/;"	f	language:C++	class:WebCore::Node
