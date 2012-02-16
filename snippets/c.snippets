@@ -64,10 +64,15 @@ snippet wh
 		${2:/* code */}
 	}
 # For Loop
+#snippet for
+#	for (${2:i} = 0; $2 < ${1:count}; $2${3:++}) {
+#		${4:/* code */}
+#	}
 snippet for
-	for (${2:i} = 0; $2 < ${1:count}; $2${3:++}) {
-		${4:/* code */}
-	}
+	for (${1:/*conditon*/}) {
+		${2:/* code */}
+	}/*end of for ($1) */
+
 # Custom For Loop
 snippet forr
 	for (${1:i} = ${2:0}; ${3:$1 < 10}; $1${4:++}) {
