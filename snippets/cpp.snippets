@@ -21,33 +21,14 @@ snippet ns
 # Class
 snippet cl
 	class ${1:`Filename('$1_t', 'name')`} {
-	public:
+	 public:
 		$1 (${2:arguments});
 		virtual ~$1 ();
 	
-	private:
+	 private:
 		${3:/* data */}
-	};
-#add note to fun
-snippet nthcpp
-	/********************************************************************
-	    函数: 
-	功能描述:
-	传入参数:
-	传出参数:
-	  返回值:
-	    作者:
-	历史记录:
+	};/*end of $1*/
 
-#add note of file
-snippet ntwcpp
-	/********************************************************************
-	    文件:
-	    功能:
-	历史记录:
-	创建日期:
-	*********************************************************************/
-
-#add note
-snippet ntcpp
-	/**/
+#add std::
+snippet st
+	std::
