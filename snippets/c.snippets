@@ -139,3 +139,25 @@ snippet ntm
 	/*${1}
 	 *
 	 */
+snippet fixme
+	    //for android4.2 port with new webcore, ${1}, modified by zhaopan
+	#if NUFRONT_FIXME
+	#error "[Error] please fixme, this source is not sure. "
+	#else
+	#endif  //end if NUFRONT_FIXM
+	    //end modified by zhaopan
+snippet mdcore
+	    //for android4.2 port with new webcore, ${1}, modified by zhaopan
+	#if NUFRONT_OLD_CODE
+	#endif //end if NUFRONT_OLD_CODE
+	#if NUFRONT_NEW_CODE
+	#endif //end if NUFRONT_NEW_CODE
+	    //end modified by zhaopan
+snippet adcore
+	    //for android4.2 port with new webcore, ${1}, added by zhaopan
+	#if NUFRONT_NEW_CODE
+	#endif //end if NUFRONT_NEW_CODE
+	    //end added by zhaopan
+snippet adnt
+	//for android4.2 port with new webcore, ${1}, added by zhaopan
+	//end added by zhaopan
