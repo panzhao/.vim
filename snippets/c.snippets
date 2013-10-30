@@ -11,6 +11,8 @@ snippet inc
 # #include "..."
 snippet Inc
 	#include "${1:`Filename("$1.h")`}"${2}
+snippet filename
+	"`Filename("$1.h")`"
 # #ifndef ... #define ... #endif
 snippet Def
 	#ifndef $1
@@ -144,20 +146,41 @@ snippet fixme
 	#if NUFRONT_FIXME
 	#error "[Error] please fixme, this source is not sure. "
 	#else
-	#endif  //end if NUFRONT_FIXM
-	    //end modified by zhaopan
+	#endif  //end if NUFRONT_FIXME
+snippet ntcore
+	    //for android4.2 port with new webcore, ${1}, modified by zhaopan
+	#if NUFRONT_OLD_CODE
+	#endif //end if NUFRONT_OLD_CODE
 snippet mdcore
 	    //for android4.2 port with new webcore, ${1}, modified by zhaopan
 	#if NUFRONT_OLD_CODE
 	#endif //end if NUFRONT_OLD_CODE
 	#if NUFRONT_NEW_CODE
 	#endif //end if NUFRONT_NEW_CODE
-	    //end modified by zhaopan
 snippet adcore
 	    //for android4.2 port with new webcore, ${1}, added by zhaopan
 	#if NUFRONT_NEW_CODE
 	#endif //end if NUFRONT_NEW_CODE
-	    //end added by zhaopan
 snippet adnt
 	//for android4.2 port with new webcore, ${1}, added by zhaopan
 	//end added by zhaopan
+snippet mdnt
+	//for android4.2 port with new webcore, ${1}, modified by zhaopan
+	//end modified by zhaopan
+snippet use
+	#if USE(${1})
+
+	#endif //end USE ${1}
+snippet logcore
+	#define LOG_TAG "`Filename("$1.h")`" 
+	#define LOG_NDEBUG 1 
+
+	#include "config.h" 
+	#include "AndroidLog.h" 
+snippet logother
+	#define LOG_TAG "platform-linux.cc" 
+	#define LOG_NDEBUG 1 
+
+	#include "`Filename("$1.h")`"
+	#include <cutils/log.h> 
+	#include <utils/Trace.h> 
