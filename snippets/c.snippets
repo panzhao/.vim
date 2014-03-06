@@ -142,7 +142,7 @@ snippet ntm
 	 *
 	 */
 snippet fixme
-	    //for android4.2 port with new webcore, ${1}, modified by zhaopan
+	    //for qml webkit webview port with new webcore, ${1}, modified by zhaopan
 	#if NUFRONT_FIXME
 	#error "[Error] please fixme, this source is not sure. "
 	#else
@@ -152,20 +152,19 @@ snippet ntcore
 	#if NUFRONT_OLD_CODE
 	#endif //end if NUFRONT_OLD_CODE
 snippet mdcore
-	    //for android4.2 port with new webcore, ${1}, modified by zhaopan
-	#if NUFRONT_OLD_CODE
-	#endif //end if NUFRONT_OLD_CODE
-	#if NUFRONT_NEW_CODE
-	#endif //end if NUFRONT_NEW_CODE
+	    //for ${1}, modified by zhaopan
+	#if 0
+	#else
+	#endif //end if modified by zhaopan
 snippet adcore
-	    //for android4.2 port with new webcore, ${1}, added by zhaopan
-	#if NUFRONT_NEW_CODE
-	#endif //end if NUFRONT_NEW_CODE
+		//for  ${1}, added by zhaopan
+	#if 0
+	#endif //end added by zhaopan
 snippet adnt
-	//for android4.2 port with new webcore, ${1}, added by zhaopan
+	//for ${1}, added by zhaopan
 	//end added by zhaopan
 snippet mdnt
-	//for android4.2 port with new webcore, ${1}, modified by zhaopan
+	//for ${1}, modified by zhaopan
 	//end modified by zhaopan
 snippet use
 	#if USE(${1})
