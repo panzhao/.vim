@@ -1,3 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
-let g:netrw_dirhist_1='/home/zhaopan/CMOS_Browser'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/zhaopan/android/master/external/chromium_org/third_party/WebKit/Source/core/history'
+let g:netrw_dirhist_2='/home/zhaopan/work/sdk-build/cmos-browser/cn.cmos.browser/qml/CMOS_Browser'
+let g:netrw_dirhist_3='/home/zhaopan/work/sdk-build/cmos-browser/cn.cmos.browser/qml'
+let g:netrw_dirhist_4='/home/zhaopan/work/sdk-build/cmos-browser/cn.cmos.browser'
